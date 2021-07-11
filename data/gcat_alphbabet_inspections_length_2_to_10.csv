@@ -1,0 +1,2341 @@
+algorithm,pattern_length,inspections
+Weak Boyer Moore,2,2052460
+Weak Memorizing Boyer Moore,2,1695326
+Weak Turbo Boyer Moore,2,1695326
+Weak Boyer Moore,2,2623966
+Weak Memorizing Boyer Moore,2,2623966
+Weak Turbo Boyer Moore,2,2623966
+Weak Boyer Moore,2,2057030
+Weak Memorizing Boyer Moore,2,1699386
+Weak Turbo Boyer Moore,2,1699386
+Weak Boyer Moore,2,2626434
+Weak Memorizing Boyer Moore,2,2626434
+Weak Turbo Boyer Moore,2,2626434
+Weak Boyer Moore,2,2627320
+Weak Memorizing Boyer Moore,2,2627320
+Weak Turbo Boyer Moore,2,2627320
+Weak Boyer Moore,2,2622883
+Weak Memorizing Boyer Moore,2,2622883
+Weak Turbo Boyer Moore,2,2622883
+Weak Boyer Moore,2,2624869
+Weak Memorizing Boyer Moore,2,2624869
+Weak Turbo Boyer Moore,2,2624869
+Weak Boyer Moore,2,2052048
+Weak Memorizing Boyer Moore,2,1694633
+Weak Turbo Boyer Moore,2,1694633
+Weak Boyer Moore,2,2627580
+Weak Memorizing Boyer Moore,2,2627580
+Weak Turbo Boyer Moore,2,2627580
+Weak Boyer Moore,2,2624957
+Weak Memorizing Boyer Moore,2,2624957
+Weak Turbo Boyer Moore,2,2624957
+Weak Boyer Moore,2,2621550
+Weak Memorizing Boyer Moore,2,2621550
+Weak Turbo Boyer Moore,2,2621550
+Weak Boyer Moore,2,2625794
+Weak Memorizing Boyer Moore,2,2625794
+Weak Turbo Boyer Moore,2,2625794
+Weak Boyer Moore,2,2055731
+Weak Memorizing Boyer Moore,2,1698481
+Weak Turbo Boyer Moore,2,1698481
+Weak Boyer Moore,2,2627996
+Weak Memorizing Boyer Moore,2,2627996
+Weak Turbo Boyer Moore,2,2627996
+Weak Boyer Moore,2,2623675
+Weak Memorizing Boyer Moore,2,2623675
+Weak Turbo Boyer Moore,2,2623675
+Weak Boyer Moore,2,2621653
+Weak Memorizing Boyer Moore,2,2621653
+Weak Turbo Boyer Moore,2,2621653
+Weak Boyer Moore,3,1926508
+Weak Memorizing Boyer Moore,3,1721379
+Weak Turbo Boyer Moore,3,1721379
+Weak Boyer Moore,3,2344035
+Weak Memorizing Boyer Moore,3,2344035
+Weak Turbo Boyer Moore,3,2344035
+Weak Boyer Moore,3,2344710
+Weak Memorizing Boyer Moore,3,2344710
+Weak Turbo Boyer Moore,3,2344710
+Weak Boyer Moore,3,1927719
+Weak Memorizing Boyer Moore,3,1723678
+Weak Turbo Boyer Moore,3,1723678
+Weak Boyer Moore,3,2344644
+Weak Memorizing Boyer Moore,3,2344644
+Weak Turbo Boyer Moore,3,2344644
+Weak Boyer Moore,3,2341895
+Weak Memorizing Boyer Moore,3,2341895
+Weak Turbo Boyer Moore,3,2341895
+Weak Boyer Moore,3,1926224
+Weak Memorizing Boyer Moore,3,1721095
+Weak Turbo Boyer Moore,3,1721095
+Weak Boyer Moore,3,1927921
+Weak Memorizing Boyer Moore,3,1723612
+Weak Turbo Boyer Moore,3,1723612
+Weak Boyer Moore,3,1380195
+Weak Memorizing Boyer Moore,3,1196275
+Weak Turbo Boyer Moore,3,1196275
+Weak Boyer Moore,3,1927862
+Weak Memorizing Boyer Moore,3,1723821
+Weak Turbo Boyer Moore,3,1723821
+Weak Boyer Moore,3,1927880
+Weak Memorizing Boyer Moore,3,1723839
+Weak Turbo Boyer Moore,3,1723839
+Weak Boyer Moore,3,1924147
+Weak Memorizing Boyer Moore,3,1719624
+Weak Turbo Boyer Moore,3,1719624
+Weak Boyer Moore,3,2781802
+Weak Memorizing Boyer Moore,3,2656132
+Weak Turbo Boyer Moore,3,2656132
+Weak Boyer Moore,3,2341626
+Weak Memorizing Boyer Moore,3,2341626
+Weak Turbo Boyer Moore,3,2341626
+Weak Boyer Moore,3,2342501
+Weak Memorizing Boyer Moore,3,2342501
+Weak Turbo Boyer Moore,3,2342501
+Weak Boyer Moore,3,2784604
+Weak Memorizing Boyer Moore,3,2658727
+Weak Turbo Boyer Moore,3,2658727
+Weak Boyer Moore,3,2780175
+Weak Memorizing Boyer Moore,3,2655467
+Weak Turbo Boyer Moore,3,2655467
+Weak Boyer Moore,3,2777647
+Weak Memorizing Boyer Moore,3,2652791
+Weak Turbo Boyer Moore,3,2652791
+Weak Boyer Moore,3,2346619
+Weak Memorizing Boyer Moore,3,2346619
+Weak Turbo Boyer Moore,3,2346619
+Weak Boyer Moore,3,2343428
+Weak Memorizing Boyer Moore,3,2343428
+Weak Turbo Boyer Moore,3,2343428
+Weak Boyer Moore,3,2345247
+Weak Memorizing Boyer Moore,3,2345247
+Weak Turbo Boyer Moore,3,2345247
+Weak Boyer Moore,3,1927727
+Weak Memorizing Boyer Moore,3,1723418
+Weak Turbo Boyer Moore,3,1723418
+Weak Boyer Moore,3,2343298
+Weak Memorizing Boyer Moore,3,2343298
+Weak Turbo Boyer Moore,3,2343298
+Weak Boyer Moore,3,1925147
+Weak Memorizing Boyer Moore,3,1720018
+Weak Turbo Boyer Moore,3,1720018
+Weak Boyer Moore,3,2342702
+Weak Memorizing Boyer Moore,3,2342702
+Weak Turbo Boyer Moore,3,2342702
+Weak Boyer Moore,3,2345155
+Weak Memorizing Boyer Moore,3,2345155
+Weak Turbo Boyer Moore,3,2345155
+Weak Boyer Moore,3,2342309
+Weak Memorizing Boyer Moore,3,2342309
+Weak Turbo Boyer Moore,3,2342309
+Weak Boyer Moore,3,2777162
+Weak Memorizing Boyer Moore,3,2652878
+Weak Turbo Boyer Moore,3,2652878
+Weak Boyer Moore,3,1923099
+Weak Memorizing Boyer Moore,3,1718576
+Weak Turbo Boyer Moore,3,1718576
+Weak Boyer Moore,3,2344953
+Weak Memorizing Boyer Moore,3,2344953
+Weak Turbo Boyer Moore,3,2344953
+Weak Boyer Moore,3,2344776
+Weak Memorizing Boyer Moore,3,2344776
+Weak Turbo Boyer Moore,3,2344776
+Weak Boyer Moore,3,2347210
+Weak Memorizing Boyer Moore,3,2347210
+Weak Turbo Boyer Moore,3,2347210
+Weak Boyer Moore,3,2342210
+Weak Memorizing Boyer Moore,3,2342210
+Weak Turbo Boyer Moore,3,2342210
+Weak Boyer Moore,3,2345913
+Weak Memorizing Boyer Moore,3,2345913
+Weak Turbo Boyer Moore,3,2345913
+Weak Boyer Moore,3,1923354
+Weak Memorizing Boyer Moore,3,1718831
+Weak Turbo Boyer Moore,3,1718831
+Weak Boyer Moore,3,2341718
+Weak Memorizing Boyer Moore,3,2341718
+Weak Turbo Boyer Moore,3,2341718
+Weak Boyer Moore,3,2342881
+Weak Memorizing Boyer Moore,3,2342881
+Weak Turbo Boyer Moore,3,2342881
+Weak Boyer Moore,3,2779602
+Weak Memorizing Boyer Moore,3,2654907
+Weak Turbo Boyer Moore,3,2654907
+Weak Boyer Moore,3,1379843
+Weak Memorizing Boyer Moore,3,1196163
+Weak Turbo Boyer Moore,3,1196163
+Weak Boyer Moore,3,2345250
+Weak Memorizing Boyer Moore,3,2345250
+Weak Turbo Boyer Moore,3,2345250
+Weak Boyer Moore,3,2344484
+Weak Memorizing Boyer Moore,3,2344484
+Weak Turbo Boyer Moore,3,2344484
+Weak Boyer Moore,3,1375848
+Weak Memorizing Boyer Moore,3,1192645
+Weak Turbo Boyer Moore,3,1192645
+Weak Boyer Moore,3,2344144
+Weak Memorizing Boyer Moore,3,2344144
+Weak Turbo Boyer Moore,3,2344144
+Weak Boyer Moore,3,2343489
+Weak Memorizing Boyer Moore,3,2343489
+Weak Turbo Boyer Moore,3,2343489
+Weak Boyer Moore,3,2341305
+Weak Memorizing Boyer Moore,3,2341305
+Weak Turbo Boyer Moore,3,2341305
+Weak Boyer Moore,3,2343640
+Weak Memorizing Boyer Moore,3,2343640
+Weak Turbo Boyer Moore,3,2343640
+Weak Boyer Moore,3,1927227
+Weak Memorizing Boyer Moore,3,1722918
+Weak Turbo Boyer Moore,3,1722918
+Weak Boyer Moore,3,2346735
+Weak Memorizing Boyer Moore,3,2346735
+Weak Turbo Boyer Moore,3,2346735
+Weak Boyer Moore,3,2343337
+Weak Memorizing Boyer Moore,3,2343337
+Weak Turbo Boyer Moore,3,2343337
+Weak Boyer Moore,3,2343989
+Weak Memorizing Boyer Moore,3,2343989
+Weak Turbo Boyer Moore,3,2343989
+Weak Boyer Moore,3,2781657
+Weak Memorizing Boyer Moore,3,2656815
+Weak Turbo Boyer Moore,3,2656815
+Weak Boyer Moore,3,2782368
+Weak Memorizing Boyer Moore,3,2657284
+Weak Turbo Boyer Moore,3,2657284
+Weak Boyer Moore,3,2781547
+Weak Memorizing Boyer Moore,3,2656212
+Weak Turbo Boyer Moore,3,2656212
+Weak Boyer Moore,3,1381504
+Weak Memorizing Boyer Moore,3,1196517
+Weak Turbo Boyer Moore,3,1196517
+Weak Boyer Moore,3,2340293
+Weak Memorizing Boyer Moore,3,2340293
+Weak Turbo Boyer Moore,3,2340293
+Weak Boyer Moore,3,2343458
+Weak Memorizing Boyer Moore,3,2343458
+Weak Turbo Boyer Moore,3,2343458
+Weak Boyer Moore,3,2783783
+Weak Memorizing Boyer Moore,3,2658726
+Weak Turbo Boyer Moore,3,2658726
+Weak Boyer Moore,3,2784471
+Weak Memorizing Boyer Moore,3,2659108
+Weak Turbo Boyer Moore,3,2659108
+Weak Boyer Moore,3,2341702
+Weak Memorizing Boyer Moore,3,2341702
+Weak Turbo Boyer Moore,3,2341702
+Weak Boyer Moore,3,2343490
+Weak Memorizing Boyer Moore,3,2343490
+Weak Turbo Boyer Moore,3,2343490
+Weak Boyer Moore,3,2345896
+Weak Memorizing Boyer Moore,3,2345896
+Weak Turbo Boyer Moore,3,2345896
+Weak Boyer Moore,3,2778609
+Weak Memorizing Boyer Moore,3,2654262
+Weak Turbo Boyer Moore,3,2654262
+Weak Boyer Moore,3,2343913
+Weak Memorizing Boyer Moore,3,2343913
+Weak Turbo Boyer Moore,3,2343913
+Weak Boyer Moore,3,2344965
+Weak Memorizing Boyer Moore,3,2344965
+Weak Turbo Boyer Moore,3,2344965
+Weak Boyer Moore,4,2049491
+Weak Memorizing Boyer Moore,4,2049491
+Weak Turbo Boyer Moore,4,2049491
+Weak Boyer Moore,4,2386001
+Weak Memorizing Boyer Moore,4,2359849
+Weak Turbo Boyer Moore,4,2359849
+Weak Boyer Moore,4,2484072
+Weak Memorizing Boyer Moore,4,2407857
+Weak Turbo Boyer Moore,4,2407857
+Weak Boyer Moore,4,2049329
+Weak Memorizing Boyer Moore,4,2049329
+Weak Turbo Boyer Moore,4,2049329
+Weak Boyer Moore,4,1964126
+Weak Memorizing Boyer Moore,4,1751598
+Weak Turbo Boyer Moore,4,1751598
+Weak Boyer Moore,4,2049938
+Weak Memorizing Boyer Moore,4,2049938
+Weak Turbo Boyer Moore,4,2049938
+Weak Boyer Moore,4,1877881
+Weak Memorizing Boyer Moore,4,1683377
+Weak Turbo Boyer Moore,4,1683377
+Weak Boyer Moore,4,1878488
+Weak Memorizing Boyer Moore,4,1683297
+Weak Turbo Boyer Moore,4,1683297
+Weak Boyer Moore,4,2046715
+Weak Memorizing Boyer Moore,4,2046715
+Weak Turbo Boyer Moore,4,2046715
+Weak Boyer Moore,4,2050073
+Weak Memorizing Boyer Moore,4,2050073
+Weak Turbo Boyer Moore,4,2050073
+Weak Boyer Moore,4,2383622
+Weak Memorizing Boyer Moore,4,2357661
+Weak Turbo Boyer Moore,4,2357661
+Weak Boyer Moore,4,2631547
+Weak Memorizing Boyer Moore,4,2541408
+Weak Turbo Boyer Moore,4,2541408
+Weak Boyer Moore,4,1303644
+Weak Memorizing Boyer Moore,4,1197567
+Weak Turbo Boyer Moore,4,1197567
+Weak Boyer Moore,4,2045841
+Weak Memorizing Boyer Moore,4,2045841
+Weak Turbo Boyer Moore,4,2045841
+Weak Boyer Moore,4,2629716
+Weak Memorizing Boyer Moore,4,2539492
+Weak Turbo Boyer Moore,4,2539492
+Weak Boyer Moore,4,1878112
+Weak Memorizing Boyer Moore,4,1683608
+Weak Turbo Boyer Moore,4,1683608
+Weak Boyer Moore,4,2386278
+Weak Memorizing Boyer Moore,4,2360097
+Weak Turbo Boyer Moore,4,2360097
+Weak Boyer Moore,4,2047942
+Weak Memorizing Boyer Moore,4,2047942
+Weak Turbo Boyer Moore,4,2047942
+Weak Boyer Moore,4,2047169
+Weak Memorizing Boyer Moore,4,2047169
+Weak Turbo Boyer Moore,4,2047169
+Weak Boyer Moore,4,2047806
+Weak Memorizing Boyer Moore,4,2047806
+Weak Turbo Boyer Moore,4,2047806
+Weak Boyer Moore,4,2049654
+Weak Memorizing Boyer Moore,4,2049654
+Weak Turbo Boyer Moore,4,2049654
+Weak Boyer Moore,4,2172250
+Weak Memorizing Boyer Moore,4,2110776
+Weak Turbo Boyer Moore,4,2027355
+Weak Boyer Moore,4,2048690
+Weak Memorizing Boyer Moore,4,2048690
+Weak Turbo Boyer Moore,4,2048690
+Weak Boyer Moore,4,1307120
+Weak Memorizing Boyer Moore,4,1200793
+Weak Turbo Boyer Moore,4,1200793
+Weak Boyer Moore,4,1962281
+Weak Memorizing Boyer Moore,4,1750425
+Weak Turbo Boyer Moore,4,1750425
+Weak Boyer Moore,4,2046179
+Weak Memorizing Boyer Moore,4,2046179
+Weak Turbo Boyer Moore,4,2046179
+Weak Boyer Moore,4,2627518
+Weak Memorizing Boyer Moore,4,2537675
+Weak Turbo Boyer Moore,4,2537675
+Weak Boyer Moore,4,2049881
+Weak Memorizing Boyer Moore,4,2049881
+Weak Turbo Boyer Moore,4,2049881
+Weak Boyer Moore,4,968340
+Weak Memorizing Boyer Moore,4,898817
+Weak Turbo Boyer Moore,4,898817
+Weak Boyer Moore,4,1875573
+Weak Memorizing Boyer Moore,4,1680870
+Weak Turbo Boyer Moore,4,1680870
+Weak Boyer Moore,4,2048333
+Weak Memorizing Boyer Moore,4,2048333
+Weak Turbo Boyer Moore,4,2048333
+Weak Boyer Moore,4,2048738
+Weak Memorizing Boyer Moore,4,2048738
+Weak Turbo Boyer Moore,4,2048738
+Weak Boyer Moore,4,2045448
+Weak Memorizing Boyer Moore,4,2045448
+Weak Turbo Boyer Moore,4,2045448
+Weak Boyer Moore,4,1876520
+Weak Memorizing Boyer Moore,4,1681310
+Weak Turbo Boyer Moore,4,1681310
+Weak Boyer Moore,4,1875691
+Weak Memorizing Boyer Moore,4,1680988
+Weak Turbo Boyer Moore,4,1680988
+Weak Boyer Moore,4,1878566
+Weak Memorizing Boyer Moore,4,1683375
+Weak Turbo Boyer Moore,4,1683375
+Weak Boyer Moore,4,2483363
+Weak Memorizing Boyer Moore,4,2406922
+Weak Turbo Boyer Moore,4,2406922
+Weak Boyer Moore,4,2483275
+Weak Memorizing Boyer Moore,4,2406834
+Weak Turbo Boyer Moore,4,2406834
+Weak Boyer Moore,4,2384197
+Weak Memorizing Boyer Moore,4,2358129
+Weak Turbo Boyer Moore,4,2358129
+Weak Boyer Moore,4,2486902
+Weak Memorizing Boyer Moore,4,2410455
+Weak Turbo Boyer Moore,4,2410455
+Weak Boyer Moore,4,2048910
+Weak Memorizing Boyer Moore,4,2048910
+Weak Turbo Boyer Moore,4,2048910
+Weak Boyer Moore,4,2484881
+Weak Memorizing Boyer Moore,4,2408768
+Weak Turbo Boyer Moore,4,2408768
+Weak Boyer Moore,4,2046553
+Weak Memorizing Boyer Moore,4,2046553
+Weak Turbo Boyer Moore,4,2046553
+Weak Boyer Moore,4,2047632
+Weak Memorizing Boyer Moore,4,2047632
+Weak Turbo Boyer Moore,4,2047632
+Weak Boyer Moore,4,2047532
+Weak Memorizing Boyer Moore,4,2047532
+Weak Turbo Boyer Moore,4,2047532
+Weak Boyer Moore,4,2484197
+Weak Memorizing Boyer Moore,4,2407982
+Weak Turbo Boyer Moore,4,2407982
+Weak Boyer Moore,4,2048389
+Weak Memorizing Boyer Moore,4,2048389
+Weak Turbo Boyer Moore,4,2048389
+Weak Boyer Moore,4,966118
+Weak Memorizing Boyer Moore,4,896896
+Weak Turbo Boyer Moore,4,896896
+Weak Boyer Moore,4,2169621
+Weak Memorizing Boyer Moore,4,2108111
+Weak Turbo Boyer Moore,4,2024261
+Weak Boyer Moore,4,2044956
+Weak Memorizing Boyer Moore,4,2044956
+Weak Turbo Boyer Moore,4,2044956
+Weak Boyer Moore,4,2045744
+Weak Memorizing Boyer Moore,4,2045744
+Weak Turbo Boyer Moore,4,2045744
+Weak Boyer Moore,4,2045594
+Weak Memorizing Boyer Moore,4,2045594
+Weak Turbo Boyer Moore,4,2045594
+Weak Boyer Moore,4,2381718
+Weak Memorizing Boyer Moore,4,2355708
+Weak Turbo Boyer Moore,4,2355708
+Weak Boyer Moore,4,2048248
+Weak Memorizing Boyer Moore,4,2048248
+Weak Turbo Boyer Moore,4,2048248
+Weak Boyer Moore,4,2046281
+Weak Memorizing Boyer Moore,4,2046281
+Weak Turbo Boyer Moore,4,2046281
+Weak Boyer Moore,4,2047299
+Weak Memorizing Boyer Moore,4,2047299
+Weak Turbo Boyer Moore,4,2047299
+Weak Boyer Moore,4,2047434
+Weak Memorizing Boyer Moore,4,2047434
+Weak Turbo Boyer Moore,4,2047434
+Weak Boyer Moore,4,1963438
+Weak Memorizing Boyer Moore,4,1751473
+Weak Turbo Boyer Moore,4,1751473
+Weak Boyer Moore,4,2048163
+Weak Memorizing Boyer Moore,4,2048163
+Weak Turbo Boyer Moore,4,2048163
+Weak Boyer Moore,4,2047698
+Weak Memorizing Boyer Moore,4,2047698
+Weak Turbo Boyer Moore,4,2047698
+Weak Boyer Moore,4,2048671
+Weak Memorizing Boyer Moore,4,2048671
+Weak Turbo Boyer Moore,4,2048671
+Weak Boyer Moore,4,2486693
+Weak Memorizing Boyer Moore,4,2410246
+Weak Turbo Boyer Moore,4,2410246
+Weak Boyer Moore,4,2485188
+Weak Memorizing Boyer Moore,4,2408651
+Weak Turbo Boyer Moore,4,2408651
+Weak Boyer Moore,4,2383861
+Weak Memorizing Boyer Moore,4,2357834
+Weak Turbo Boyer Moore,4,2357834
+Weak Boyer Moore,4,1965547
+Weak Memorizing Boyer Moore,4,1752969
+Weak Turbo Boyer Moore,4,1752969
+Weak Boyer Moore,4,2046700
+Weak Memorizing Boyer Moore,4,2046700
+Weak Turbo Boyer Moore,4,2046700
+Weak Boyer Moore,4,2049117
+Weak Memorizing Boyer Moore,4,2049117
+Weak Turbo Boyer Moore,4,2049117
+Weak Boyer Moore,4,1878343
+Weak Memorizing Boyer Moore,4,1683839
+Weak Turbo Boyer Moore,4,1683839
+Weak Boyer Moore,4,2050841
+Weak Memorizing Boyer Moore,4,2050841
+Weak Turbo Boyer Moore,4,2050841
+Weak Boyer Moore,4,2167229
+Weak Memorizing Boyer Moore,4,2106423
+Weak Turbo Boyer Moore,4,2022389
+Weak Boyer Moore,4,2167758
+Weak Memorizing Boyer Moore,4,2106536
+Weak Turbo Boyer Moore,4,2023186
+Weak Boyer Moore,4,2048485
+Weak Memorizing Boyer Moore,4,2048485
+Weak Turbo Boyer Moore,4,2048485
+Weak Boyer Moore,4,2046561
+Weak Memorizing Boyer Moore,4,2046561
+Weak Turbo Boyer Moore,4,2046561
+Weak Boyer Moore,4,1303388
+Weak Memorizing Boyer Moore,4,1197311
+Weak Turbo Boyer Moore,4,1197311
+Weak Boyer Moore,4,2380757
+Weak Memorizing Boyer Moore,4,2354726
+Weak Turbo Boyer Moore,4,2354726
+Weak Boyer Moore,4,2047192
+Weak Memorizing Boyer Moore,4,2047192
+Weak Turbo Boyer Moore,4,2047192
+Weak Boyer Moore,4,2047892
+Weak Memorizing Boyer Moore,4,2047892
+Weak Turbo Boyer Moore,4,2047892
+Weak Boyer Moore,4,1875172
+Weak Memorizing Boyer Moore,4,1680469
+Weak Turbo Boyer Moore,4,1680469
+Weak Boyer Moore,4,1308590
+Weak Memorizing Boyer Moore,4,1201532
+Weak Turbo Boyer Moore,4,1201532
+Weak Boyer Moore,4,2045403
+Weak Memorizing Boyer Moore,4,2045403
+Weak Turbo Boyer Moore,4,2045403
+Weak Boyer Moore,4,1875604
+Weak Memorizing Boyer Moore,4,1680394
+Weak Turbo Boyer Moore,4,1680394
+Weak Boyer Moore,4,2381789
+Weak Memorizing Boyer Moore,4,2355477
+Weak Turbo Boyer Moore,4,2355477
+Weak Boyer Moore,4,1878206
+Weak Memorizing Boyer Moore,4,1683702
+Weak Turbo Boyer Moore,4,1683702
+Weak Boyer Moore,4,2384195
+Weak Memorizing Boyer Moore,4,2358223
+Weak Turbo Boyer Moore,4,2358223
+Weak Boyer Moore,4,2482280
+Weak Memorizing Boyer Moore,4,2406544
+Weak Turbo Boyer Moore,4,2406544
+Weak Boyer Moore,4,2167763
+Weak Memorizing Boyer Moore,4,2106337
+Weak Turbo Boyer Moore,4,2023441
+Weak Boyer Moore,4,2048450
+Weak Memorizing Boyer Moore,4,2048450
+Weak Turbo Boyer Moore,4,2048450
+Weak Boyer Moore,4,2047456
+Weak Memorizing Boyer Moore,4,2047456
+Weak Turbo Boyer Moore,4,2047456
+Weak Boyer Moore,4,2383155
+Weak Memorizing Boyer Moore,4,2357117
+Weak Turbo Boyer Moore,4,2357117
+Weak Boyer Moore,4,2050017
+Weak Memorizing Boyer Moore,4,2050017
+Weak Turbo Boyer Moore,4,2050017
+Weak Boyer Moore,4,965550
+Weak Memorizing Boyer Moore,4,895779
+Weak Turbo Boyer Moore,4,895779
+Weak Boyer Moore,4,2046282
+Weak Memorizing Boyer Moore,4,2046282
+Weak Turbo Boyer Moore,4,2046282
+Weak Boyer Moore,4,2049120
+Weak Memorizing Boyer Moore,4,2049120
+Weak Turbo Boyer Moore,4,2049120
+Weak Boyer Moore,4,2050213
+Weak Memorizing Boyer Moore,4,2050213
+Weak Turbo Boyer Moore,4,2050213
+Weak Boyer Moore,4,2629703
+Weak Memorizing Boyer Moore,4,2539090
+Weak Turbo Boyer Moore,4,2539090
+Weak Boyer Moore,4,2385419
+Weak Memorizing Boyer Moore,4,2359103
+Weak Turbo Boyer Moore,4,2359103
+Weak Boyer Moore,4,1878534
+Weak Memorizing Boyer Moore,4,1684030
+Weak Turbo Boyer Moore,4,1684030
+Weak Boyer Moore,4,2381171
+Weak Memorizing Boyer Moore,4,2355203
+Weak Turbo Boyer Moore,4,2355203
+Weak Boyer Moore,4,2047942
+Weak Memorizing Boyer Moore,4,2047942
+Weak Turbo Boyer Moore,4,2047942
+Weak Boyer Moore,4,2487451
+Weak Memorizing Boyer Moore,4,2410603
+Weak Turbo Boyer Moore,4,2410603
+Weak Boyer Moore,5,2058451
+Weak Memorizing Boyer Moore,5,2052955
+Weak Turbo Boyer Moore,5,2052955
+Weak Boyer Moore,5,1303080
+Weak Memorizing Boyer Moore,5,1197281
+Weak Turbo Boyer Moore,5,1197281
+Weak Boyer Moore,5,1924685
+Weak Memorizing Boyer Moore,5,1878109
+Weak Turbo Boyer Moore,5,1820781
+Weak Boyer Moore,5,1799740
+Weak Memorizing Boyer Moore,5,1799740
+Weak Turbo Boyer Moore,5,1799740
+Weak Boyer Moore,5,1807093
+Weak Memorizing Boyer Moore,5,1620716
+Weak Turbo Boyer Moore,5,1620716
+Weak Boyer Moore,5,1301748
+Weak Memorizing Boyer Moore,5,1196388
+Weak Turbo Boyer Moore,5,1196388
+Weak Boyer Moore,5,1938397
+Weak Memorizing Boyer Moore,5,1925069
+Weak Turbo Boyer Moore,5,1856836
+Weak Boyer Moore,5,2355891
+Weak Memorizing Boyer Moore,5,2283703
+Weak Turbo Boyer Moore,5,2283703
+Weak Boyer Moore,5,1301651
+Weak Memorizing Boyer Moore,5,1196291
+Weak Turbo Boyer Moore,5,1196291
+Weak Boyer Moore,5,1807720
+Weak Memorizing Boyer Moore,5,1621343
+Weak Turbo Boyer Moore,5,1621343
+Weak Boyer Moore,5,1297713
+Weak Memorizing Boyer Moore,5,1193033
+Weak Turbo Boyer Moore,5,1193033
+Weak Boyer Moore,5,2059739
+Weak Memorizing Boyer Moore,5,2054194
+Weak Turbo Boyer Moore,5,2054194
+Weak Boyer Moore,5,1802021
+Weak Memorizing Boyer Moore,5,1802021
+Weak Turbo Boyer Moore,5,1802021
+Weak Boyer Moore,5,2054599
+Weak Memorizing Boyer Moore,5,2049049
+Weak Turbo Boyer Moore,5,2049049
+Weak Boyer Moore,5,1803733
+Weak Memorizing Boyer Moore,5,1803733
+Weak Turbo Boyer Moore,5,1803733
+Weak Boyer Moore,5,2058718
+Weak Memorizing Boyer Moore,5,2053064
+Weak Turbo Boyer Moore,5,2053064
+Weak Boyer Moore,5,2357213
+Weak Memorizing Boyer Moore,5,2284451
+Weak Turbo Boyer Moore,5,2284451
+Weak Boyer Moore,5,1887262
+Weak Memorizing Boyer Moore,5,1690163
+Weak Turbo Boyer Moore,5,1690163
+Weak Boyer Moore,5,1803263
+Weak Memorizing Boyer Moore,5,1803263
+Weak Turbo Boyer Moore,5,1803263
+Weak Boyer Moore,5,1797994
+Weak Memorizing Boyer Moore,5,1611058
+Weak Turbo Boyer Moore,5,1611058
+Weak Boyer Moore,5,1802947
+Weak Memorizing Boyer Moore,5,1802947
+Weak Turbo Boyer Moore,5,1802947
+Weak Boyer Moore,5,2161759
+Weak Memorizing Boyer Moore,5,2145578
+Weak Turbo Boyer Moore,5,2145578
+Weak Boyer Moore,5,2057768
+Weak Memorizing Boyer Moore,5,2052082
+Weak Turbo Boyer Moore,5,2052082
+Weak Boyer Moore,5,1800389
+Weak Memorizing Boyer Moore,5,1613946
+Weak Turbo Boyer Moore,5,1613946
+Weak Boyer Moore,5,1936554
+Weak Memorizing Boyer Moore,5,1923708
+Weak Turbo Boyer Moore,5,1855409
+Weak Boyer Moore,5,1799479
+Weak Memorizing Boyer Moore,5,1799479
+Weak Turbo Boyer Moore,5,1799479
+Weak Boyer Moore,5,2056455
+Weak Memorizing Boyer Moore,5,2050855
+Weak Turbo Boyer Moore,5,2050855
+Weak Boyer Moore,5,1961478
+Weak Memorizing Boyer Moore,5,1947223
+Weak Turbo Boyer Moore,5,1933581
+Weak Boyer Moore,5,1807448
+Weak Memorizing Boyer Moore,5,1621071
+Weak Turbo Boyer Moore,5,1621071
+Weak Boyer Moore,5,940196
+Weak Memorizing Boyer Moore,5,899576
+Weak Turbo Boyer Moore,5,899576
+Weak Boyer Moore,5,1925914
+Weak Memorizing Boyer Moore,5,1879082
+Weak Turbo Boyer Moore,5,1820389
+Weak Boyer Moore,5,1804292
+Weak Memorizing Boyer Moore,5,1617356
+Weak Turbo Boyer Moore,5,1617356
+Weak Boyer Moore,5,2362609
+Weak Memorizing Boyer Moore,5,2290074
+Weak Turbo Boyer Moore,5,2290074
+Weak Boyer Moore,5,1802654
+Weak Memorizing Boyer Moore,5,1802654
+Weak Turbo Boyer Moore,5,1802654
+Weak Boyer Moore,5,2060325
+Weak Memorizing Boyer Moore,5,2054729
+Weak Turbo Boyer Moore,5,2054729
+Weak Boyer Moore,5,1964857
+Weak Memorizing Boyer Moore,5,1950564
+Weak Turbo Boyer Moore,5,1936842
+Weak Boyer Moore,5,1926760
+Weak Memorizing Boyer Moore,5,1880088
+Weak Turbo Boyer Moore,5,1821677
+Weak Boyer Moore,5,1802418
+Weak Memorizing Boyer Moore,5,1802418
+Weak Turbo Boyer Moore,5,1802418
+Weak Boyer Moore,5,2365797
+Weak Memorizing Boyer Moore,5,2293085
+Weak Turbo Boyer Moore,5,2293085
+Weak Boyer Moore,5,2497370
+Weak Memorizing Boyer Moore,5,2418339
+Weak Turbo Boyer Moore,5,2418339
+Weak Boyer Moore,5,2059065
+Weak Memorizing Boyer Moore,5,2053359
+Weak Turbo Boyer Moore,5,2053359
+Weak Boyer Moore,5,2356245
+Weak Memorizing Boyer Moore,5,2283714
+Weak Turbo Boyer Moore,5,2283714
+Weak Boyer Moore,5,1926652
+Weak Memorizing Boyer Moore,5,1879880
+Weak Turbo Boyer Moore,5,1821696
+Weak Boyer Moore,5,2058197
+Weak Memorizing Boyer Moore,5,2052637
+Weak Turbo Boyer Moore,5,2052637
+Weak Boyer Moore,5,1801268
+Weak Memorizing Boyer Moore,5,1801268
+Weak Turbo Boyer Moore,5,1801268
+Weak Boyer Moore,5,1301909
+Weak Memorizing Boyer Moore,5,1196177
+Weak Turbo Boyer Moore,5,1196177
+Weak Boyer Moore,5,2056350
+Weak Memorizing Boyer Moore,5,2050741
+Weak Turbo Boyer Moore,5,2050741
+Weak Boyer Moore,5,1800108
+Weak Memorizing Boyer Moore,5,1800108
+Weak Turbo Boyer Moore,5,1800108
+Weak Boyer Moore,5,1798096
+Weak Memorizing Boyer Moore,5,1610961
+Weak Turbo Boyer Moore,5,1610961
+Weak Boyer Moore,5,1885640
+Weak Memorizing Boyer Moore,5,1689165
+Weak Turbo Boyer Moore,5,1689165
+Weak Boyer Moore,5,1806427
+Weak Memorizing Boyer Moore,5,1619292
+Weak Turbo Boyer Moore,5,1619292
+Weak Boyer Moore,5,1924434
+Weak Memorizing Boyer Moore,5,1878226
+Weak Turbo Boyer Moore,5,1820031
+Weak Boyer Moore,5,2163586
+Weak Memorizing Boyer Moore,5,2147163
+Weak Turbo Boyer Moore,5,2147163
+Weak Boyer Moore,5,2362743
+Weak Memorizing Boyer Moore,5,2290622
+Weak Turbo Boyer Moore,5,2290622
+Weak Boyer Moore,5,1806991
+Weak Memorizing Boyer Moore,5,1620614
+Weak Turbo Boyer Moore,5,1620614
+Weak Boyer Moore,5,1938772
+Weak Memorizing Boyer Moore,5,1925342
+Weak Turbo Boyer Moore,5,1856818
+Weak Boyer Moore,5,735527
+Weak Memorizing Boyer Moore,5,712451
+Weak Turbo Boyer Moore,5,712451
+Weak Boyer Moore,5,1802212
+Weak Memorizing Boyer Moore,5,1802212
+Weak Turbo Boyer Moore,5,1802212
+Weak Boyer Moore,5,1934593
+Weak Memorizing Boyer Moore,5,1921667
+Weak Turbo Boyer Moore,5,1852765
+Weak Boyer Moore,5,2271615
+Weak Memorizing Boyer Moore,5,2252613
+Weak Turbo Boyer Moore,5,2252613
+Weak Boyer Moore,5,2492883
+Weak Memorizing Boyer Moore,5,2414375
+Weak Turbo Boyer Moore,5,2414375
+Weak Boyer Moore,5,1800007
+Weak Memorizing Boyer Moore,5,1800007
+Weak Turbo Boyer Moore,5,1800007
+Weak Boyer Moore,5,1801029
+Weak Memorizing Boyer Moore,5,1801029
+Weak Turbo Boyer Moore,5,1801029
+Weak Boyer Moore,5,1800825
+Weak Memorizing Boyer Moore,5,1800825
+Weak Turbo Boyer Moore,5,1800825
+Weak Boyer Moore,5,2361288
+Weak Memorizing Boyer Moore,5,2289514
+Weak Turbo Boyer Moore,5,2289514
+Weak Boyer Moore,5,1887917
+Weak Memorizing Boyer Moore,5,1690992
+Weak Turbo Boyer Moore,5,1690992
+Weak Boyer Moore,5,1802268
+Weak Memorizing Boyer Moore,5,1802268
+Weak Turbo Boyer Moore,5,1802268
+Weak Boyer Moore,5,2164087
+Weak Memorizing Boyer Moore,5,2147862
+Weak Turbo Boyer Moore,5,2147862
+Weak Boyer Moore,5,1976282
+Weak Memorizing Boyer Moore,5,1757639
+Weak Turbo Boyer Moore,5,1757639
+Weak Boyer Moore,5,1802555
+Weak Memorizing Boyer Moore,5,1802555
+Weak Turbo Boyer Moore,5,1802555
+Weak Boyer Moore,5,2364947
+Weak Memorizing Boyer Moore,5,2291911
+Weak Turbo Boyer Moore,5,2291911
+Weak Boyer Moore,5,1803229
+Weak Memorizing Boyer Moore,5,1616293
+Weak Turbo Boyer Moore,5,1616293
+Weak Boyer Moore,5,2058411
+Weak Memorizing Boyer Moore,5,2052799
+Weak Turbo Boyer Moore,5,2052799
+Weak Boyer Moore,5,2361089
+Weak Memorizing Boyer Moore,5,2289315
+Weak Turbo Boyer Moore,5,2289315
+Weak Boyer Moore,5,2497166
+Weak Memorizing Boyer Moore,5,2418085
+Weak Turbo Boyer Moore,5,2418085
+Weak Boyer Moore,5,1800992
+Weak Memorizing Boyer Moore,5,1800992
+Weak Turbo Boyer Moore,5,1800992
+Weak Boyer Moore,5,2641745
+Weak Memorizing Boyer Moore,5,2542454
+Weak Turbo Boyer Moore,5,2427224
+Weak Boyer Moore,5,1802155
+Weak Memorizing Boyer Moore,5,1802155
+Weak Turbo Boyer Moore,5,1802155
+Weak Boyer Moore,5,1800251
+Weak Memorizing Boyer Moore,5,1800251
+Weak Turbo Boyer Moore,5,1800251
+Weak Boyer Moore,5,1803780
+Weak Memorizing Boyer Moore,5,1616844
+Weak Turbo Boyer Moore,5,1616844
+Weak Boyer Moore,5,1301938
+Weak Memorizing Boyer Moore,5,1196206
+Weak Turbo Boyer Moore,5,1196206
+Weak Boyer Moore,5,1803436
+Weak Memorizing Boyer Moore,5,1616500
+Weak Turbo Boyer Moore,5,1616500
+Weak Boyer Moore,5,2059278
+Weak Memorizing Boyer Moore,5,2053654
+Weak Turbo Boyer Moore,5,2053654
+Weak Boyer Moore,5,1803365
+Weak Memorizing Boyer Moore,5,1803365
+Weak Turbo Boyer Moore,5,1803365
+Weak Boyer Moore,5,2493900
+Weak Memorizing Boyer Moore,5,2415560
+Weak Turbo Boyer Moore,5,2415560
+Weak Boyer Moore,5,1804417
+Weak Memorizing Boyer Moore,5,1617282
+Weak Turbo Boyer Moore,5,1617282
+Weak Boyer Moore,5,1799509
+Weak Memorizing Boyer Moore,5,1799509
+Weak Turbo Boyer Moore,5,1799509
+Weak Boyer Moore,5,2163020
+Weak Memorizing Boyer Moore,5,2146561
+Weak Turbo Boyer Moore,5,2146561
+Weak Boyer Moore,5,2059154
+Weak Memorizing Boyer Moore,5,2053748
+Weak Turbo Boyer Moore,5,2053748
+Weak Boyer Moore,5,1802606
+Weak Memorizing Boyer Moore,5,1802606
+Weak Turbo Boyer Moore,5,1802606
+Weak Boyer Moore,5,1800888
+Weak Memorizing Boyer Moore,5,1800888
+Weak Turbo Boyer Moore,5,1800888
+Weak Boyer Moore,5,2268460
+Weak Memorizing Boyer Moore,5,2249381
+Weak Turbo Boyer Moore,5,2249381
+Weak Boyer Moore,5,1801985
+Weak Memorizing Boyer Moore,5,1801985
+Weak Turbo Boyer Moore,5,1801985
+Weak Boyer Moore,5,2058623
+Weak Memorizing Boyer Moore,5,2052963
+Weak Turbo Boyer Moore,5,2052963
+Weak Boyer Moore,5,1800177
+Weak Memorizing Boyer Moore,5,1613734
+Weak Turbo Boyer Moore,5,1613734
+Weak Boyer Moore,5,2354108
+Weak Memorizing Boyer Moore,5,2281573
+Weak Turbo Boyer Moore,5,2281573
+Weak Boyer Moore,5,1302768
+Weak Memorizing Boyer Moore,5,1196969
+Weak Turbo Boyer Moore,5,1196969
+Weak Boyer Moore,5,2271026
+Weak Memorizing Boyer Moore,5,2251850
+Weak Turbo Boyer Moore,5,2251850
+Weak Boyer Moore,5,1802818
+Weak Memorizing Boyer Moore,5,1802818
+Weak Turbo Boyer Moore,5,1802818
+Weak Boyer Moore,5,1807078
+Weak Memorizing Boyer Moore,5,1620701
+Weak Turbo Boyer Moore,5,1620701
+Weak Boyer Moore,6,2247063
+Weak Memorizing Boyer Moore,6,2177964
+Weak Turbo Boyer Moore,6,2177964
+Weak Boyer Moore,6,1604597
+Weak Memorizing Boyer Moore,6,1604597
+Weak Turbo Boyer Moore,6,1604597
+Weak Boyer Moore,6,1807567
+Weak Memorizing Boyer Moore,6,1798169
+Weak Turbo Boyer Moore,6,1790077
+Weak Boyer Moore,6,1289105
+Weak Memorizing Boyer Moore,6,1184881
+Weak Turbo Boyer Moore,6,1184881
+Weak Boyer Moore,6,940770
+Weak Memorizing Boyer Moore,6,900566
+Weak Turbo Boyer Moore,6,900566
+Weak Boyer Moore,6,1803472
+Weak Memorizing Boyer Moore,6,1802213
+Weak Turbo Boyer Moore,6,1802213
+Weak Boyer Moore,6,2067248
+Weak Memorizing Boyer Moore,6,2051875
+Weak Turbo Boyer Moore,6,2051875
+Weak Boyer Moore,6,2166340
+Weak Memorizing Boyer Moore,6,2149685
+Weak Turbo Boyer Moore,6,2149685
+Weak Boyer Moore,6,1602739
+Weak Memorizing Boyer Moore,6,1602739
+Weak Turbo Boyer Moore,6,1602739
+Weak Boyer Moore,6,1603121
+Weak Memorizing Boyer Moore,6,1603121
+Weak Turbo Boyer Moore,6,1603121
+Weak Boyer Moore,6,1942033
+Weak Memorizing Boyer Moore,6,1729395
+Weak Turbo Boyer Moore,6,1729395
+Weak Boyer Moore,6,1731364
+Weak Memorizing Boyer Moore,6,1552353
+Weak Turbo Boyer Moore,6,1552353
+Weak Boyer Moore,6,1751074
+Weak Memorizing Boyer Moore,6,1708608
+Weak Turbo Boyer Moore,6,1659686
+Weak Boyer Moore,6,2238771
+Weak Memorizing Boyer Moore,6,2169831
+Weak Turbo Boyer Moore,6,2169831
+Weak Boyer Moore,6,1724373
+Weak Memorizing Boyer Moore,6,1545855
+Weak Turbo Boyer Moore,6,1545855
+Weak Boyer Moore,6,1877969
+Weak Memorizing Boyer Moore,6,1867864
+Weak Turbo Boyer Moore,6,1858731
+Weak Boyer Moore,6,1970985
+Weak Memorizing Boyer Moore,6,1966949
+Weak Turbo Boyer Moore,6,1966949
+Weak Boyer Moore,6,2271893
+Weak Memorizing Boyer Moore,6,2251071
+Weak Turbo Boyer Moore,6,2163255
+Weak Boyer Moore,6,1808985
+Weak Memorizing Boyer Moore,6,1621424
+Weak Turbo Boyer Moore,6,1621424
+Weak Boyer Moore,6,1603943
+Weak Memorizing Boyer Moore,6,1603943
+Weak Turbo Boyer Moore,6,1603943
+Weak Boyer Moore,6,1802861
+Weak Memorizing Boyer Moore,6,1801652
+Weak Turbo Boyer Moore,6,1801652
+Weak Boyer Moore,6,1605110
+Weak Memorizing Boyer Moore,6,1605110
+Weak Turbo Boyer Moore,6,1605110
+Weak Boyer Moore,6,940410
+Weak Memorizing Boyer Moore,6,900208
+Weak Turbo Boyer Moore,6,900208
+Weak Boyer Moore,6,1970285
+Weak Memorizing Boyer Moore,6,1966242
+Weak Turbo Boyer Moore,6,1966242
+Weak Boyer Moore,6,1603778
+Weak Memorizing Boyer Moore,6,1603778
+Weak Turbo Boyer Moore,6,1603778
+Weak Boyer Moore,6,1604900
+Weak Memorizing Boyer Moore,6,1604900
+Weak Turbo Boyer Moore,6,1604900
+Weak Boyer Moore,6,1804964
+Weak Memorizing Boyer Moore,6,1803743
+Weak Turbo Boyer Moore,6,1803743
+Weak Boyer Moore,6,1805524
+Weak Memorizing Boyer Moore,6,1618127
+Weak Turbo Boyer Moore,6,1618127
+Weak Boyer Moore,6,1972878
+Weak Memorizing Boyer Moore,6,1968809
+Weak Turbo Boyer Moore,6,1968809
+Weak Boyer Moore,6,1289037
+Weak Memorizing Boyer Moore,6,1184813
+Weak Turbo Boyer Moore,6,1184813
+Weak Boyer Moore,6,2246645
+Weak Memorizing Boyer Moore,6,2178032
+Weak Turbo Boyer Moore,6,2178032
+Weak Boyer Moore,6,1290322
+Weak Memorizing Boyer Moore,6,1185649
+Weak Turbo Boyer Moore,6,1185649
+Weak Boyer Moore,6,1890334
+Weak Memorizing Boyer Moore,6,1886861
+Weak Turbo Boyer Moore,6,1886861
+Weak Boyer Moore,6,2163962
+Weak Memorizing Boyer Moore,6,2147273
+Weak Turbo Boyer Moore,6,2147273
+Weak Boyer Moore,6,1724423
+Weak Memorizing Boyer Moore,6,1545905
+Weak Turbo Boyer Moore,6,1545905
+Weak Boyer Moore,6,1971719
+Weak Memorizing Boyer Moore,6,1967624
+Weak Turbo Boyer Moore,6,1967624
+Weak Boyer Moore,6,2246276
+Weak Memorizing Boyer Moore,6,2178049
+Weak Turbo Boyer Moore,6,2178049
+Weak Boyer Moore,6,1805543
+Weak Memorizing Boyer Moore,6,1796343
+Weak Turbo Boyer Moore,6,1788200
+Weak Boyer Moore,6,2248505
+Weak Memorizing Boyer Moore,6,2179892
+Weak Turbo Boyer Moore,6,2179892
+Weak Boyer Moore,6,1805772
+Weak Memorizing Boyer Moore,6,1618405
+Weak Turbo Boyer Moore,6,1618405
+Weak Boyer Moore,6,2242694
+Weak Memorizing Boyer Moore,6,2173758
+Weak Turbo Boyer Moore,6,2173758
+Weak Boyer Moore,6,1602846
+Weak Memorizing Boyer Moore,6,1602846
+Weak Turbo Boyer Moore,6,1602846
+Weak Boyer Moore,6,1603622
+Weak Memorizing Boyer Moore,6,1603622
+Weak Turbo Boyer Moore,6,1603622
+Weak Boyer Moore,6,1727560
+Weak Memorizing Boyer Moore,6,1548980
+Weak Turbo Boyer Moore,6,1548980
+Weak Boyer Moore,6,2547469
+Weak Memorizing Boyer Moore,6,2455154
+Weak Turbo Boyer Moore,6,2369887
+Weak Boyer Moore,6,1603312
+Weak Memorizing Boyer Moore,6,1603312
+Weak Turbo Boyer Moore,6,1603312
+Weak Boyer Moore,6,1802448
+Weak Memorizing Boyer Moore,6,1801246
+Weak Turbo Boyer Moore,6,1801246
+Weak Boyer Moore,6,1729895
+Weak Memorizing Boyer Moore,6,1550884
+Weak Turbo Boyer Moore,6,1550884
+Weak Boyer Moore,6,2545587
+Weak Memorizing Boyer Moore,6,2453567
+Weak Turbo Boyer Moore,6,2368287
+Weak Boyer Moore,6,1803095
+Weak Memorizing Boyer Moore,6,1801913
+Weak Turbo Boyer Moore,6,1801913
+Weak Boyer Moore,6,1803674
+Weak Memorizing Boyer Moore,6,1802438
+Weak Turbo Boyer Moore,6,1802438
+Weak Boyer Moore,6,1729522
+Weak Memorizing Boyer Moore,6,1551004
+Weak Turbo Boyer Moore,6,1551004
+Weak Boyer Moore,6,2065888
+Weak Memorizing Boyer Moore,6,2050452
+Weak Turbo Boyer Moore,6,2050452
+Weak Boyer Moore,6,1605489
+Weak Memorizing Boyer Moore,6,1605489
+Weak Turbo Boyer Moore,6,1605489
+Weak Boyer Moore,6,2271324
+Weak Memorizing Boyer Moore,6,2250297
+Weak Turbo Boyer Moore,6,2163316
+Weak Boyer Moore,6,1605023
+Weak Memorizing Boyer Moore,6,1605023
+Weak Turbo Boyer Moore,6,1605023
+Weak Boyer Moore,6,940346
+Weak Memorizing Boyer Moore,6,899912
+Weak Turbo Boyer Moore,6,899912
+Weak Boyer Moore,6,1751105
+Weak Memorizing Boyer Moore,6,1708509
+Weak Turbo Boyer Moore,6,1658830
+Weak Boyer Moore,6,1603404
+Weak Memorizing Boyer Moore,6,1603404
+Weak Turbo Boyer Moore,6,1603404
+Weak Boyer Moore,6,1718533
+Weak Memorizing Boyer Moore,6,1715607
+Weak Turbo Boyer Moore,6,1660758
+Weak Boyer Moore,6,2240092
+Weak Memorizing Boyer Moore,6,2171185
+Weak Turbo Boyer Moore,6,2171185
+Weak Boyer Moore,6,1889764
+Weak Memorizing Boyer Moore,6,1886227
+Weak Turbo Boyer Moore,6,1886227
+Weak Boyer Moore,6,2247281
+Weak Memorizing Boyer Moore,6,2178182
+Weak Turbo Boyer Moore,6,2178182
+Weak Boyer Moore,6,1726680
+Weak Memorizing Boyer Moore,6,1547906
+Weak Turbo Boyer Moore,6,1547906
+Weak Boyer Moore,6,1809501
+Weak Memorizing Boyer Moore,6,1622614
+Weak Turbo Boyer Moore,6,1622614
+Weak Boyer Moore,6,1717776
+Weak Memorizing Boyer Moore,6,1714992
+Weak Turbo Boyer Moore,6,1660336
+Weak Boyer Moore,6,1604763
+Weak Memorizing Boyer Moore,6,1604763
+Weak Turbo Boyer Moore,6,1604763
+Weak Boyer Moore,6,2242644
+Weak Memorizing Boyer Moore,6,2173725
+Weak Turbo Boyer Moore,6,2173725
+Weak Boyer Moore,6,1605019
+Weak Memorizing Boyer Moore,6,1605019
+Weak Turbo Boyer Moore,6,1605019
+Weak Boyer Moore,6,1728591
+Weak Memorizing Boyer Moore,6,1549580
+Weak Turbo Boyer Moore,6,1549580
+Weak Boyer Moore,6,2247123
+Weak Memorizing Boyer Moore,6,2178201
+Weak Turbo Boyer Moore,6,2178201
+Weak Boyer Moore,6,1604227
+Weak Memorizing Boyer Moore,6,1604227
+Weak Turbo Boyer Moore,6,1604227
+Weak Boyer Moore,6,1805607
+Weak Memorizing Boyer Moore,6,1804420
+Weak Turbo Boyer Moore,6,1804420
+Weak Boyer Moore,6,1604274
+Weak Memorizing Boyer Moore,6,1604274
+Weak Turbo Boyer Moore,6,1604274
+Weak Boyer Moore,6,2065545
+Weak Memorizing Boyer Moore,6,2050172
+Weak Turbo Boyer Moore,6,2050172
+Weak Boyer Moore,6,1733341
+Weak Memorizing Boyer Moore,6,1554567
+Weak Turbo Boyer Moore,6,1554567
+Weak Boyer Moore,6,2066681
+Weak Memorizing Boyer Moore,6,2051156
+Weak Turbo Boyer Moore,6,2051156
+Weak Boyer Moore,6,1710506
+Weak Memorizing Boyer Moore,6,1702390
+Weak Turbo Boyer Moore,6,1663912
+Weak Boyer Moore,6,1970868
+Weak Memorizing Boyer Moore,6,1966774
+Weak Turbo Boyer Moore,6,1966774
+Weak Boyer Moore,6,2242610
+Weak Memorizing Boyer Moore,6,2173674
+Weak Turbo Boyer Moore,6,2173674
+Weak Boyer Moore,6,1928835
+Weak Memorizing Boyer Moore,6,1881106
+Weak Turbo Boyer Moore,6,1822990
+Weak Boyer Moore,6,1805882
+Weak Memorizing Boyer Moore,6,1618540
+Weak Turbo Boyer Moore,6,1618540
+Weak Boyer Moore,6,1802087
+Weak Memorizing Boyer Moore,6,1615204
+Weak Turbo Boyer Moore,6,1615204
+Weak Boyer Moore,6,2406167
+Weak Memorizing Boyer Moore,6,2326655
+Weak Turbo Boyer Moore,6,2290092
+Weak Boyer Moore,6,1731236
+Weak Memorizing Boyer Moore,6,1552225
+Weak Turbo Boyer Moore,6,1552225
+Weak Boyer Moore,6,1726221
+Weak Memorizing Boyer Moore,6,1547447
+Weak Turbo Boyer Moore,6,1547447
+Weak Boyer Moore,6,1605983
+Weak Memorizing Boyer Moore,6,1605983
+Weak Turbo Boyer Moore,6,1605983
+Weak Boyer Moore,6,2162048
+Weak Memorizing Boyer Moore,6,2145362
+Weak Turbo Boyer Moore,6,2145362
+Weak Boyer Moore,6,1604393
+Weak Memorizing Boyer Moore,6,1604393
+Weak Turbo Boyer Moore,6,1604393
+Weak Boyer Moore,6,2167097
+Weak Memorizing Boyer Moore,6,2150239
+Weak Turbo Boyer Moore,6,2150239
+Weak Boyer Moore,6,1634051
+Weak Memorizing Boyer Moore,6,1629224
+Weak Turbo Boyer Moore,6,1600520
+Weak Boyer Moore,6,1803457
+Weak Memorizing Boyer Moore,6,1802194
+Weak Turbo Boyer Moore,6,1802194
+Weak Boyer Moore,6,1603451
+Weak Memorizing Boyer Moore,6,1603451
+Weak Turbo Boyer Moore,6,1603451
+Weak Boyer Moore,6,1731600
+Weak Memorizing Boyer Moore,6,1552589
+Weak Turbo Boyer Moore,6,1552589
+Weak Boyer Moore,6,2240789
+Weak Memorizing Boyer Moore,6,2171870
+Weak Turbo Boyer Moore,6,2171870
+Weak Boyer Moore,6,1884581
+Weak Memorizing Boyer Moore,6,1680044
+Weak Turbo Boyer Moore,6,1680044
+Weak Boyer Moore,6,2069213
+Weak Memorizing Boyer Moore,6,2053750
+Weak Turbo Boyer Moore,6,2053750
+Weak Boyer Moore,6,1809535
+Weak Memorizing Boyer Moore,6,1622731
+Weak Turbo Boyer Moore,6,1622731
+Weak Boyer Moore,6,2404772
+Weak Memorizing Boyer Moore,6,2325160
+Weak Turbo Boyer Moore,6,2288662
+Weak Boyer Moore,6,1728701
+Weak Memorizing Boyer Moore,6,1549690
+Weak Turbo Boyer Moore,6,1549690
+Weak Boyer Moore,7,1443527
+Weak Memorizing Boyer Moore,7,1443527
+Weak Turbo Boyer Moore,7,1443527
+Weak Boyer Moore,7,1663383
+Weak Memorizing Boyer Moore,7,1491374
+Weak Turbo Boyer Moore,7,1491374
+Weak Boyer Moore,7,1568624
+Weak Memorizing Boyer Moore,7,1560866
+Weak Turbo Boyer Moore,7,1526992
+Weak Boyer Moore,7,1890145
+Weak Memorizing Boyer Moore,7,1886516
+Weak Turbo Boyer Moore,7,1886516
+Weak Boyer Moore,7,1663939
+Weak Memorizing Boyer Moore,7,1491930
+Weak Turbo Boyer Moore,7,1491930
+Weak Boyer Moore,7,1540181
+Weak Memorizing Boyer Moore,7,1539535
+Weak Turbo Boyer Moore,7,1495040
+Weak Boyer Moore,7,1844060
+Weak Memorizing Boyer Moore,7,1834625
+Weak Turbo Boyer Moore,7,1790473
+Weak Boyer Moore,7,1674589
+Weak Memorizing Boyer Moore,7,1673790
+Weak Turbo Boyer Moore,7,1673790
+Weak Boyer Moore,7,2066436
+Weak Memorizing Boyer Moore,7,2050929
+Weak Turbo Boyer Moore,7,2050929
+Weak Boyer Moore,7,1751705
+Weak Memorizing Boyer Moore,7,1709194
+Weak Turbo Boyer Moore,7,1660135
+Weak Boyer Moore,7,1658250
+Weak Memorizing Boyer Moore,7,1487038
+Weak Turbo Boyer Moore,7,1487038
+Weak Boyer Moore,7,1843552
+Weak Memorizing Boyer Moore,7,1833922
+Weak Turbo Boyer Moore,7,1790705
+Weak Boyer Moore,7,2134736
+Weak Memorizing Boyer Moore,7,2069145
+Weak Turbo Boyer Moore,7,2069145
+Weak Boyer Moore,7,1444619
+Weak Memorizing Boyer Moore,7,1444619
+Weak Turbo Boyer Moore,7,1444619
+Weak Boyer Moore,7,1444559
+Weak Memorizing Boyer Moore,7,1444559
+Weak Turbo Boyer Moore,7,1444559
+Weak Boyer Moore,7,1663700
+Weak Memorizing Boyer Moore,7,1492488
+Weak Turbo Boyer Moore,7,1492488
+Weak Boyer Moore,7,1814757
+Weak Memorizing Boyer Moore,7,1811326
+Weak Turbo Boyer Moore,7,1811326
+Weak Boyer Moore,7,1663641
+Weak Memorizing Boyer Moore,7,1492167
+Weak Turbo Boyer Moore,7,1492167
+Weak Boyer Moore,7,1603970
+Weak Memorizing Boyer Moore,7,1603691
+Weak Turbo Boyer Moore,7,1603691
+Weak Boyer Moore,7,1817089
+Weak Memorizing Boyer Moore,7,1813585
+Weak Turbo Boyer Moore,7,1813585
+Weak Boyer Moore,7,1444071
+Weak Memorizing Boyer Moore,7,1444071
+Weak Turbo Boyer Moore,7,1444071
+Weak Boyer Moore,7,1604518
+Weak Memorizing Boyer Moore,7,1604244
+Weak Turbo Boyer Moore,7,1604244
+Weak Boyer Moore,7,1275955
+Weak Memorizing Boyer Moore,7,1172653
+Weak Turbo Boyer Moore,7,1172653
+Weak Boyer Moore,7,1734029
+Weak Memorizing Boyer Moore,7,1555173
+Weak Turbo Boyer Moore,7,1555173
+Weak Boyer Moore,7,2067338
+Weak Memorizing Boyer Moore,7,2051805
+Weak Turbo Boyer Moore,7,2051805
+Weak Boyer Moore,7,1444349
+Weak Memorizing Boyer Moore,7,1444349
+Weak Turbo Boyer Moore,7,1444349
+Weak Boyer Moore,7,1444769
+Weak Memorizing Boyer Moore,7,1444769
+Weak Turbo Boyer Moore,7,1444769
+Weak Boyer Moore,7,2164806
+Weak Memorizing Boyer Moore,7,2147751
+Weak Turbo Boyer Moore,7,2068594
+Weak Boyer Moore,7,2404964
+Weak Memorizing Boyer Moore,7,2328086
+Weak Turbo Boyer Moore,7,2251732
+Weak Boyer Moore,7,2142115
+Weak Memorizing Boyer Moore,7,2076920
+Weak Turbo Boyer Moore,7,2076920
+Weak Boyer Moore,7,1655574
+Weak Memorizing Boyer Moore,7,1483819
+Weak Turbo Boyer Moore,7,1483819
+Weak Boyer Moore,7,2252957
+Weak Memorizing Boyer Moore,7,2181052
+Weak Turbo Boyer Moore,7,2166643
+Weak Boyer Moore,7,1440947
+Weak Memorizing Boyer Moore,7,1440947
+Weak Turbo Boyer Moore,7,1440947
+Weak Boyer Moore,7,2134977
+Weak Memorizing Boyer Moore,7,2069158
+Weak Turbo Boyer Moore,7,2069158
+Weak Boyer Moore,7,1606386
+Weak Memorizing Boyer Moore,7,1606087
+Weak Turbo Boyer Moore,7,1606087
+Weak Boyer Moore,7,1444928
+Weak Memorizing Boyer Moore,7,1444928
+Weak Turbo Boyer Moore,7,1444928
+Weak Boyer Moore,7,1978031
+Weak Memorizing Boyer Moore,7,1963096
+Weak Turbo Boyer Moore,7,1963096
+Weak Boyer Moore,7,2070656
+Weak Memorizing Boyer Moore,7,2054882
+Weak Turbo Boyer Moore,7,2054882
+Weak Boyer Moore,7,1444809
+Weak Memorizing Boyer Moore,7,1444809
+Weak Turbo Boyer Moore,7,1444809
+Weak Boyer Moore,7,1663947
+Weak Memorizing Boyer Moore,7,1491938
+Weak Turbo Boyer Moore,7,1491938
+Weak Boyer Moore,7,1561937
+Weak Memorizing Boyer Moore,7,1554543
+Weak Turbo Boyer Moore,7,1521543
+Weak Boyer Moore,7,1672440
+Weak Memorizing Boyer Moore,7,1671672
+Weak Turbo Boyer Moore,7,1671672
+Weak Boyer Moore,7,1865331
+Weak Memorizing Boyer Moore,7,1855405
+Weak Turbo Boyer Moore,7,1810380
+Weak Boyer Moore,7,1981326
+Weak Memorizing Boyer Moore,7,1966314
+Weak Turbo Boyer Moore,7,1966314
+Weak Boyer Moore,7,1975810
+Weak Memorizing Boyer Moore,7,1961010
+Weak Turbo Boyer Moore,7,1961010
+Weak Boyer Moore,7,934645
+Weak Memorizing Boyer Moore,7,894493
+Weak Turbo Boyer Moore,7,894493
+Weak Boyer Moore,7,1661992
+Weak Memorizing Boyer Moore,7,1490237
+Weak Turbo Boyer Moore,7,1490237
+Weak Boyer Moore,7,1978470
+Weak Memorizing Boyer Moore,7,1963693
+Weak Turbo Boyer Moore,7,1963693
+Weak Boyer Moore,7,1672576
+Weak Memorizing Boyer Moore,7,1671821
+Weak Turbo Boyer Moore,7,1671821
+Weak Boyer Moore,7,1660982
+Weak Memorizing Boyer Moore,7,1489227
+Weak Turbo Boyer Moore,7,1489227
+Weak Boyer Moore,7,1620034
+Weak Memorizing Boyer Moore,7,1580760
+Weak Turbo Boyer Moore,7,1530426
+Weak Boyer Moore,7,1444187
+Weak Memorizing Boyer Moore,7,1444187
+Weak Turbo Boyer Moore,7,1444187
+Weak Boyer Moore,7,1656845
+Weak Memorizing Boyer Moore,7,1485090
+Weak Turbo Boyer Moore,7,1485090
+Weak Boyer Moore,7,1740955
+Weak Memorizing Boyer Moore,7,1731828
+Weak Turbo Boyer Moore,7,1724460
+Weak Boyer Moore,7,1444586
+Weak Memorizing Boyer Moore,7,1444586
+Weak Turbo Boyer Moore,7,1444586
+Weak Boyer Moore,7,1604538
+Weak Memorizing Boyer Moore,7,1604247
+Weak Turbo Boyer Moore,7,1604247
+Weak Boyer Moore,7,1673770
+Weak Memorizing Boyer Moore,7,1672984
+Weak Turbo Boyer Moore,7,1672984
+Weak Boyer Moore,7,2141618
+Weak Memorizing Boyer Moore,7,2076027
+Weak Turbo Boyer Moore,7,2076027
+Weak Boyer Moore,7,1664552
+Weak Memorizing Boyer Moore,7,1493340
+Weak Turbo Boyer Moore,7,1493340
+Weak Boyer Moore,7,1905907
+Weak Memorizing Boyer Moore,7,1858763
+Weak Turbo Boyer Moore,7,1802408
+Weak Boyer Moore,7,1675880
+Weak Memorizing Boyer Moore,7,1675088
+Weak Turbo Boyer Moore,7,1675088
+Weak Boyer Moore,7,2139218
+Weak Memorizing Boyer Moore,7,2074253
+Weak Turbo Boyer Moore,7,2074253
+Weak Boyer Moore,7,1275509
+Weak Memorizing Boyer Moore,7,1172659
+Weak Turbo Boyer Moore,7,1172659
+Weak Boyer Moore,7,1732222
+Weak Memorizing Boyer Moore,7,1553104
+Weak Turbo Boyer Moore,7,1553104
+Weak Boyer Moore,7,1974980
+Weak Memorizing Boyer Moore,7,1960441
+Weak Turbo Boyer Moore,7,1960441
+Weak Boyer Moore,7,1674029
+Weak Memorizing Boyer Moore,7,1673250
+Weak Turbo Boyer Moore,7,1673250
+Weak Boyer Moore,7,1444422
+Weak Memorizing Boyer Moore,7,1444422
+Weak Turbo Boyer Moore,7,1444422
+Weak Boyer Moore,7,2066861
+Weak Memorizing Boyer Moore,7,2051297
+Weak Turbo Boyer Moore,7,2051297
+Weak Boyer Moore,7,2247922
+Weak Memorizing Boyer Moore,7,2179127
+Weak Turbo Boyer Moore,7,2179127
+Weak Boyer Moore,7,2131786
+Weak Memorizing Boyer Moore,7,2066821
+Weak Turbo Boyer Moore,7,2066821
+Weak Boyer Moore,7,1672552
+Weak Memorizing Boyer Moore,7,1671812
+Weak Turbo Boyer Moore,7,1671812
+Weak Boyer Moore,7,1816775
+Weak Memorizing Boyer Moore,7,1813313
+Weak Turbo Boyer Moore,7,1813313
+Weak Boyer Moore,7,2069769
+Weak Memorizing Boyer Moore,7,2054322
+Weak Turbo Boyer Moore,7,2054322
+Weak Boyer Moore,7,1977618
+Weak Memorizing Boyer Moore,7,1962683
+Weak Turbo Boyer Moore,7,1962683
+Weak Boyer Moore,7,1658281
+Weak Memorizing Boyer Moore,7,1486272
+Weak Turbo Boyer Moore,7,1486272
+Weak Boyer Moore,7,2142576
+Weak Memorizing Boyer Moore,7,2076757
+Weak Turbo Boyer Moore,7,2076757
+Weak Boyer Moore,7,1444499
+Weak Memorizing Boyer Moore,7,1444499
+Weak Turbo Boyer Moore,7,1444499
+Weak Boyer Moore,7,1605877
+Weak Memorizing Boyer Moore,7,1605592
+Weak Turbo Boyer Moore,7,1605592
+Weak Boyer Moore,7,1726952
+Weak Memorizing Boyer Moore,7,1546865
+Weak Turbo Boyer Moore,7,1528261
+Weak Boyer Moore,7,1657421
+Weak Memorizing Boyer Moore,7,1485412
+Weak Turbo Boyer Moore,7,1485412
+Weak Boyer Moore,7,1444705
+Weak Memorizing Boyer Moore,7,1444705
+Weak Turbo Boyer Moore,7,1444705
+Weak Boyer Moore,7,1603047
+Weak Memorizing Boyer Moore,7,1602787
+Weak Turbo Boyer Moore,7,1602787
+Weak Boyer Moore,7,1817023
+Weak Memorizing Boyer Moore,7,1813642
+Weak Turbo Boyer Moore,7,1813642
+Weak Boyer Moore,7,2069948
+Weak Memorizing Boyer Moore,7,2054190
+Weak Turbo Boyer Moore,7,2054190
+Weak Boyer Moore,7,1444931
+Weak Memorizing Boyer Moore,7,1444931
+Weak Turbo Boyer Moore,7,1444931
+Weak Boyer Moore,7,1729732
+Weak Memorizing Boyer Moore,7,1550201
+Weak Turbo Boyer Moore,7,1531684
+Weak Boyer Moore,7,1816195
+Weak Memorizing Boyer Moore,7,1812837
+Weak Turbo Boyer Moore,7,1812837
+Weak Boyer Moore,7,1304736
+Weak Memorizing Boyer Moore,7,1199154
+Weak Turbo Boyer Moore,7,1199154
+Weak Boyer Moore,7,1664289
+Weak Memorizing Boyer Moore,7,1493077
+Weak Turbo Boyer Moore,7,1493077
+Weak Boyer Moore,7,2142007
+Weak Memorizing Boyer Moore,7,2076812
+Weak Turbo Boyer Moore,7,2076812
+Weak Boyer Moore,7,2064769
+Weak Memorizing Boyer Moore,7,2049216
+Weak Turbo Boyer Moore,7,2049216
+Weak Boyer Moore,7,1657587
+Weak Memorizing Boyer Moore,7,1485578
+Weak Turbo Boyer Moore,7,1485578
+Weak Boyer Moore,7,1977799
+Weak Memorizing Boyer Moore,7,1962987
+Weak Turbo Boyer Moore,7,1962987
+Weak Boyer Moore,7,1673610
+Weak Memorizing Boyer Moore,7,1672831
+Weak Turbo Boyer Moore,7,1672831
+Weak Boyer Moore,7,1596253
+Weak Memorizing Boyer Moore,7,1588441
+Weak Turbo Boyer Moore,7,1539018
+Weak Boyer Moore,7,1726953
+Weak Memorizing Boyer Moore,7,1548083
+Weak Turbo Boyer Moore,7,1548083
+Weak Boyer Moore,7,1673897
+Weak Memorizing Boyer Moore,7,1673132
+Weak Turbo Boyer Moore,7,1673132
+Weak Boyer Moore,7,1662558
+Weak Memorizing Boyer Moore,7,1490803
+Weak Turbo Boyer Moore,7,1490803
+Weak Boyer Moore,7,1732044
+Weak Memorizing Boyer Moore,7,1552925
+Weak Turbo Boyer Moore,7,1552925
+Weak Boyer Moore,7,1275706
+Weak Memorizing Boyer Moore,7,1172856
+Weak Turbo Boyer Moore,7,1172856
+Weak Boyer Moore,8,1260412
+Weak Memorizing Boyer Moore,8,1158351
+Weak Turbo Boyer Moore,8,1158351
+Weak Boyer Moore,8,1897774
+Weak Memorizing Boyer Moore,8,1883323
+Weak Turbo Boyer Moore,8,1883323
+Weak Boyer Moore,8,2042533
+Weak Memorizing Boyer Moore,8,1980530
+Weak Turbo Boyer Moore,8,1980530
+Weak Boyer Moore,8,2037808
+Weak Memorizing Boyer Moore,8,1974957
+Weak Turbo Boyer Moore,8,1974957
+Weak Boyer Moore,8,1741006
+Weak Memorizing Boyer Moore,8,1731856
+Weak Turbo Boyer Moore,8,1724490
+Weak Boyer Moore,8,2047006
+Weak Memorizing Boyer Moore,8,1984109
+Weak Turbo Boyer Moore,8,1984109
+Weak Boyer Moore,8,2044120
+Weak Memorizing Boyer Moore,8,1981785
+Weak Turbo Boyer Moore,8,1981785
+Weak Boyer Moore,8,2247409
+Weak Memorizing Boyer Moore,8,2178531
+Weak Turbo Boyer Moore,8,2097429
+Weak Boyer Moore,8,2136036
+Weak Memorizing Boyer Moore,8,2070300
+Weak Turbo Boyer Moore,8,2070300
+Weak Boyer Moore,8,1311803
+Weak Memorizing Boyer Moore,8,1311803
+Weak Turbo Boyer Moore,8,1311803
+Weak Boyer Moore,8,1312455
+Weak Memorizing Boyer Moore,8,1312455
+Weak Turbo Boyer Moore,8,1312455
+Weak Boyer Moore,8,2037804
+Weak Memorizing Boyer Moore,8,1974953
+Weak Turbo Boyer Moore,8,1974953
+Weak Boyer Moore,8,1600184
+Weak Memorizing Boyer Moore,8,1435376
+Weak Turbo Boyer Moore,8,1435376
+Weak Boyer Moore,8,1747000
+Weak Memorizing Boyer Moore,8,1743741
+Weak Turbo Boyer Moore,8,1743741
+Weak Boyer Moore,8,1598260
+Weak Memorizing Boyer Moore,8,1433474
+Weak Turbo Boyer Moore,8,1433474
+Weak Boyer Moore,8,1396896
+Weak Memorizing Boyer Moore,8,1396412
+Weak Turbo Boyer Moore,8,1369336
+Weak Boyer Moore,8,2105452
+Weak Memorizing Boyer Moore,8,2089144
+Weak Turbo Boyer Moore,8,2036265
+Weak Boyer Moore,8,1314092
+Weak Memorizing Boyer Moore,8,1314092
+Weak Turbo Boyer Moore,8,1314092
+Weak Boyer Moore,8,1395376
+Weak Memorizing Boyer Moore,8,1394954
+Weak Turbo Boyer Moore,8,1367868
+Weak Boyer Moore,8,1313203
+Weak Memorizing Boyer Moore,8,1313203
+Weak Turbo Boyer Moore,8,1313203
+Weak Boyer Moore,8,1500711
+Weak Memorizing Boyer Moore,8,1500561
+Weak Turbo Boyer Moore,8,1500561
+Weak Boyer Moore,8,1814420
+Weak Memorizing Boyer Moore,8,1810968
+Weak Turbo Boyer Moore,8,1810968
+Weak Boyer Moore,8,1275667
+Weak Memorizing Boyer Moore,8,1172357
+Weak Turbo Boyer Moore,8,1172357
+Weak Boyer Moore,8,1477478
+Weak Memorizing Boyer Moore,8,1441798
+Weak Turbo Boyer Moore,8,1405879
+Weak Boyer Moore,8,1312187
+Weak Memorizing Boyer Moore,8,1312187
+Weak Turbo Boyer Moore,8,1312187
+Weak Boyer Moore,8,2139815
+Weak Memorizing Boyer Moore,8,2074881
+Weak Turbo Boyer Moore,8,2074881
+Weak Boyer Moore,8,2036105
+Weak Memorizing Boyer Moore,8,1973956
+Weak Turbo Boyer Moore,8,1973956
+Weak Boyer Moore,8,1614551
+Weak Memorizing Boyer Moore,8,1613804
+Weak Turbo Boyer Moore,8,1613804
+Weak Boyer Moore,8,1657420
+Weak Memorizing Boyer Moore,8,1485385
+Weak Turbo Boyer Moore,8,1485385
+Weak Boyer Moore,8,1599770
+Weak Memorizing Boyer Moore,8,1434984
+Weak Turbo Boyer Moore,8,1434984
+Weak Boyer Moore,8,1598948
+Weak Memorizing Boyer Moore,8,1434140
+Weak Turbo Boyer Moore,8,1434140
+Weak Boyer Moore,8,1423487
+Weak Memorizing Boyer Moore,8,1421767
+Weak Turbo Boyer Moore,8,1393323
+Weak Boyer Moore,8,1313613
+Weak Memorizing Boyer Moore,8,1313613
+Weak Turbo Boyer Moore,8,1313613
+Weak Boyer Moore,8,1511109
+Weak Memorizing Boyer Moore,8,1510664
+Weak Turbo Boyer Moore,8,1479499
+Weak Boyer Moore,8,2139670
+Weak Memorizing Boyer Moore,8,2074747
+Weak Turbo Boyer Moore,8,2074747
+Weak Boyer Moore,8,1444801
+Weak Memorizing Boyer Moore,8,1444742
+Weak Turbo Boyer Moore,8,1444742
+Weak Boyer Moore,8,1898302
+Weak Memorizing Boyer Moore,8,1884168
+Weak Turbo Boyer Moore,8,1884168
+Weak Boyer Moore,8,2043479
+Weak Memorizing Boyer Moore,8,1980929
+Weak Turbo Boyer Moore,8,1980929
+Weak Boyer Moore,8,1899390
+Weak Memorizing Boyer Moore,8,1884919
+Weak Turbo Boyer Moore,8,1884919
+Weak Boyer Moore,8,1422356
+Weak Memorizing Boyer Moore,8,1420750
+Weak Turbo Boyer Moore,8,1392796
+Weak Boyer Moore,8,1977913
+Weak Memorizing Boyer Moore,8,1963214
+Weak Turbo Boyer Moore,8,1963214
+Weak Boyer Moore,8,1747288
+Weak Memorizing Boyer Moore,8,1744004
+Weak Turbo Boyer Moore,8,1744004
+Weak Boyer Moore,8,1257400
+Weak Memorizing Boyer Moore,8,1156192
+Weak Turbo Boyer Moore,8,1156192
+Weak Boyer Moore,8,2040979
+Weak Memorizing Boyer Moore,8,1978830
+Weak Turbo Boyer Moore,8,1978830
+Weak Boyer Moore,8,1310876
+Weak Memorizing Boyer Moore,8,1310876
+Weak Turbo Boyer Moore,8,1310876
+Weak Boyer Moore,8,2037052
+Weak Memorizing Boyer Moore,8,1974440
+Weak Turbo Boyer Moore,8,1974440
+Weak Boyer Moore,8,1734572
+Weak Memorizing Boyer Moore,8,1555772
+Weak Turbo Boyer Moore,8,1555772
+Weak Boyer Moore,8,2178442
+Weak Memorizing Boyer Moore,8,2111126
+Weak Turbo Boyer Moore,8,2081448
+Weak Boyer Moore,8,1897367
+Weak Memorizing Boyer Moore,8,1883109
+Weak Turbo Boyer Moore,8,1883109
+Weak Boyer Moore,8,1444250
+Weak Memorizing Boyer Moore,8,1444182
+Weak Turbo Boyer Moore,8,1444182
+Weak Boyer Moore,8,1286561
+Weak Memorizing Boyer Moore,8,1182884
+Weak Turbo Boyer Moore,8,1182884
+Weak Boyer Moore,8,2140838
+Weak Memorizing Boyer Moore,8,2075576
+Weak Turbo Boyer Moore,8,2075576
+Weak Boyer Moore,8,1396692
+Weak Memorizing Boyer Moore,8,1396308
+Weak Turbo Boyer Moore,8,1369887
+Weak Boyer Moore,8,1341507
+Weak Memorizing Boyer Moore,8,1340763
+Weak Turbo Boyer Moore,8,1326643
+Weak Boyer Moore,8,1733192
+Weak Memorizing Boyer Moore,8,1554404
+Weak Turbo Boyer Moore,8,1554404
+Weak Boyer Moore,8,1448418
+Weak Memorizing Boyer Moore,8,1446614
+Weak Turbo Boyer Moore,8,1406026
+Weak Boyer Moore,8,1815521
+Weak Memorizing Boyer Moore,8,1812089
+Weak Turbo Boyer Moore,8,1812089
+Weak Boyer Moore,8,1614568
+Weak Memorizing Boyer Moore,8,1613858
+Weak Turbo Boyer Moore,8,1613858
+Weak Boyer Moore,8,1312569
+Weak Memorizing Boyer Moore,8,1312569
+Weak Turbo Boyer Moore,8,1312569
+Weak Boyer Moore,8,1598443
+Weak Memorizing Boyer Moore,8,1433657
+Weak Turbo Boyer Moore,8,1433657
+Weak Boyer Moore,8,1396562
+Weak Memorizing Boyer Moore,8,1396128
+Weak Turbo Boyer Moore,8,1369152
+Weak Boyer Moore,8,1444767
+Weak Memorizing Boyer Moore,8,1444701
+Weak Turbo Boyer Moore,8,1444701
+Weak Boyer Moore,8,1749269
+Weak Memorizing Boyer Moore,8,1745887
+Weak Turbo Boyer Moore,8,1745887
+Weak Boyer Moore,8,1599354
+Weak Memorizing Boyer Moore,8,1434546
+Weak Turbo Boyer Moore,8,1434546
+Weak Boyer Moore,8,1664462
+Weak Memorizing Boyer Moore,8,1492961
+Weak Turbo Boyer Moore,8,1492961
+Weak Boyer Moore,8,1896071
+Weak Memorizing Boyer Moore,8,1882021
+Weak Turbo Boyer Moore,8,1882021
+Weak Boyer Moore,8,2047544
+Weak Memorizing Boyer Moore,8,1984355
+Weak Turbo Boyer Moore,8,1984355
+Weak Boyer Moore,8,1377079
+Weak Memorizing Boyer Moore,8,1373461
+Weak Turbo Boyer Moore,8,1336698
+Weak Boyer Moore,8,1312435
+Weak Memorizing Boyer Moore,8,1312435
+Weak Turbo Boyer Moore,8,1312435
+Weak Boyer Moore,8,1674572
+Weak Memorizing Boyer Moore,8,1673789
+Weak Turbo Boyer Moore,8,1673789
+Weak Boyer Moore,8,2043270
+Weak Memorizing Boyer Moore,8,1981001
+Weak Turbo Boyer Moore,8,1981001
+Weak Boyer Moore,8,1500599
+Weak Memorizing Boyer Moore,8,1500406
+Weak Turbo Boyer Moore,8,1500406
+Weak Boyer Moore,8,1597918
+Weak Memorizing Boyer Moore,8,1432701
+Weak Turbo Boyer Moore,8,1432701
+Weak Boyer Moore,8,1313942
+Weak Memorizing Boyer Moore,8,1313942
+Weak Turbo Boyer Moore,8,1313942
+Weak Boyer Moore,8,1313154
+Weak Memorizing Boyer Moore,8,1313154
+Weak Turbo Boyer Moore,8,1313154
+Weak Boyer Moore,8,1445211
+Weak Memorizing Boyer Moore,8,1445146
+Weak Turbo Boyer Moore,8,1445146
+Weak Boyer Moore,8,1598899
+Weak Memorizing Boyer Moore,8,1434091
+Weak Turbo Boyer Moore,8,1434091
+Weak Boyer Moore,8,1592783
+Weak Memorizing Boyer Moore,8,1427566
+Weak Turbo Boyer Moore,8,1427566
+Weak Boyer Moore,8,1976740
+Weak Memorizing Boyer Moore,8,1962028
+Weak Turbo Boyer Moore,8,1962028
+Weak Boyer Moore,8,1898735
+Weak Memorizing Boyer Moore,8,1884425
+Weak Turbo Boyer Moore,8,1884425
+Weak Boyer Moore,8,1443547
+Weak Memorizing Boyer Moore,8,1436565
+Weak Turbo Boyer Moore,8,1407324
+Weak Boyer Moore,8,1311426
+Weak Memorizing Boyer Moore,8,1311426
+Weak Turbo Boyer Moore,8,1311426
+Weak Boyer Moore,8,937801
+Weak Memorizing Boyer Moore,8,897468
+Weak Turbo Boyer Moore,8,897468
+Weak Boyer Moore,8,1897467
+Weak Memorizing Boyer Moore,8,1883352
+Weak Turbo Boyer Moore,8,1883352
+Weak Boyer Moore,8,1597970
+Weak Memorizing Boyer Moore,8,1433019
+Weak Turbo Boyer Moore,8,1433019
+Weak Boyer Moore,8,1311738
+Weak Memorizing Boyer Moore,8,1311738
+Weak Turbo Boyer Moore,8,1311738
+Weak Boyer Moore,8,1977768
+Weak Memorizing Boyer Moore,8,1963062
+Weak Turbo Boyer Moore,8,1963062
+Weak Boyer Moore,8,1312642
+Weak Memorizing Boyer Moore,8,1312642
+Weak Turbo Boyer Moore,8,1312642
+Weak Boyer Moore,8,1313154
+Weak Memorizing Boyer Moore,8,1313154
+Weak Turbo Boyer Moore,8,1313154
+Weak Boyer Moore,8,1391105
+Weak Memorizing Boyer Moore,8,1390963
+Weak Turbo Boyer Moore,8,1353553
+Weak Boyer Moore,8,1311444
+Weak Memorizing Boyer Moore,8,1311444
+Weak Turbo Boyer Moore,8,1311444
+Weak Boyer Moore,8,1814870
+Weak Memorizing Boyer Moore,8,1811407
+Weak Turbo Boyer Moore,8,1811407
+Weak Boyer Moore,8,2047060
+Weak Memorizing Boyer Moore,8,1984163
+Weak Turbo Boyer Moore,8,1984163
+Weak Boyer Moore,8,1312897
+Weak Memorizing Boyer Moore,8,1312897
+Weak Turbo Boyer Moore,8,1312897
+Weak Boyer Moore,8,1498810
+Weak Memorizing Boyer Moore,8,1498659
+Weak Turbo Boyer Moore,8,1498659
+Weak Boyer Moore,8,2491264
+Weak Memorizing Boyer Moore,8,2400586
+Weak Turbo Boyer Moore,8,2319142
+Weak Boyer Moore,8,1312152
+Weak Memorizing Boyer Moore,8,1312152
+Weak Turbo Boyer Moore,8,1312152
+Weak Boyer Moore,8,1732387
+Weak Memorizing Boyer Moore,8,1553651
+Weak Turbo Boyer Moore,8,1553651
+Weak Boyer Moore,8,1600891
+Weak Memorizing Boyer Moore,8,1436083
+Weak Turbo Boyer Moore,8,1436083
+Weak Boyer Moore,8,1746856
+Weak Memorizing Boyer Moore,8,1743586
+Weak Turbo Boyer Moore,8,1743586
+Weak Boyer Moore,9,1248061
+Weak Memorizing Boyer Moore,9,1147010
+Weak Turbo Boyer Moore,9,1147010
+Weak Boyer Moore,9,1958434
+Weak Memorizing Boyer Moore,9,1897903
+Weak Turbo Boyer Moore,9,1897903
+Weak Boyer Moore,9,726661
+Weak Memorizing Boyer Moore,9,712773
+Weak Turbo Boyer Moore,9,712773
+Weak Boyer Moore,9,1202856
+Weak Memorizing Boyer Moore,9,1202856
+Weak Turbo Boyer Moore,9,1202856
+Weak Boyer Moore,9,1600921
+Weak Memorizing Boyer Moore,9,1562651
+Weak Turbo Boyer Moore,9,1513732
+Weak Boyer Moore,9,1597536
+Weak Memorizing Boyer Moore,9,1432578
+Weak Turbo Boyer Moore,9,1432578
+Weak Boyer Moore,9,1540965
+Weak Memorizing Boyer Moore,9,1381830
+Weak Turbo Boyer Moore,9,1381830
+Weak Boyer Moore,9,1542622
+Weak Memorizing Boyer Moore,9,1383831
+Weak Turbo Boyer Moore,9,1383831
+Weak Boyer Moore,9,1954111
+Weak Memorizing Boyer Moore,9,1894454
+Weak Turbo Boyer Moore,9,1894454
+Weak Boyer Moore,9,1955071
+Weak Memorizing Boyer Moore,9,1895160
+Weak Turbo Boyer Moore,9,1895160
+Weak Boyer Moore,9,1978414
+Weak Memorizing Boyer Moore,9,1963466
+Weak Turbo Boyer Moore,9,1899243
+Weak Boyer Moore,9,1820638
+Weak Memorizing Boyer Moore,9,1807032
+Weak Turbo Boyer Moore,9,1807032
+Weak Boyer Moore,9,1228060
+Weak Memorizing Boyer Moore,9,1227880
+Weak Turbo Boyer Moore,9,1215998
+Weak Boyer Moore,9,2043514
+Weak Memorizing Boyer Moore,9,1981242
+Weak Turbo Boyer Moore,9,1981242
+Weak Boyer Moore,9,1400156
+Weak Memorizing Boyer Moore,9,1400109
+Weak Turbo Boyer Moore,9,1400109
+Weak Boyer Moore,9,1501788
+Weak Memorizing Boyer Moore,9,1501584
+Weak Turbo Boyer Moore,9,1501584
+Weak Boyer Moore,9,1538699
+Weak Memorizing Boyer Moore,9,1379462
+Weak Turbo Boyer Moore,9,1379462
+Weak Boyer Moore,9,2112635
+Weak Memorizing Boyer Moore,9,2094408
+Weak Turbo Boyer Moore,9,2041466
+Weak Boyer Moore,9,1954455
+Weak Memorizing Boyer Moore,9,1894868
+Weak Turbo Boyer Moore,9,1894868
+Weak Boyer Moore,9,1819884
+Weak Memorizing Boyer Moore,9,1806304
+Weak Turbo Boyer Moore,9,1806304
+Weak Boyer Moore,9,1297088
+Weak Memorizing Boyer Moore,9,1296678
+Weak Turbo Boyer Moore,9,1273644
+Weak Boyer Moore,9,1312427
+Weak Memorizing Boyer Moore,9,1312416
+Weak Turbo Boyer Moore,9,1312416
+Weak Boyer Moore,9,1820142
+Weak Memorizing Boyer Moore,9,1806475
+Weak Turbo Boyer Moore,9,1806475
+Weak Boyer Moore,9,1683428
+Weak Memorizing Boyer Moore,9,1680267
+Weak Turbo Boyer Moore,9,1680267
+Weak Boyer Moore,9,1819370
+Weak Memorizing Boyer Moore,9,1805712
+Weak Turbo Boyer Moore,9,1805712
+Weak Boyer Moore,9,1313739
+Weak Memorizing Boyer Moore,9,1313726
+Weak Turbo Boyer Moore,9,1313726
+Weak Boyer Moore,9,1311512
+Weak Memorizing Boyer Moore,9,1311496
+Weak Turbo Boyer Moore,9,1311496
+Weak Boyer Moore,9,1822233
+Weak Memorizing Boyer Moore,9,1808339
+Weak Turbo Boyer Moore,9,1808339
+Weak Boyer Moore,9,1598804
+Weak Memorizing Boyer Moore,9,1433584
+Weak Turbo Boyer Moore,9,1433584
+Weak Boyer Moore,9,1598251
+Weak Memorizing Boyer Moore,9,1433398
+Weak Turbo Boyer Moore,9,1422324
+Weak Boyer Moore,9,1202239
+Weak Memorizing Boyer Moore,9,1202239
+Weak Turbo Boyer Moore,9,1202239
+Weak Boyer Moore,9,1454593
+Weak Memorizing Boyer Moore,9,1454416
+Weak Turbo Boyer Moore,9,1454416
+Weak Boyer Moore,9,1541766
+Weak Memorizing Boyer Moore,9,1382975
+Weak Turbo Boyer Moore,9,1382975
+Weak Boyer Moore,9,1592884
+Weak Memorizing Boyer Moore,9,1427659
+Weak Turbo Boyer Moore,9,1427659
+Weak Boyer Moore,9,1539321
+Weak Memorizing Boyer Moore,9,1380186
+Weak Turbo Boyer Moore,9,1380186
+Weak Boyer Moore,9,1539275
+Weak Memorizing Boyer Moore,9,1380597
+Weak Turbo Boyer Moore,9,1380597
+Weak Boyer Moore,9,1820551
+Weak Memorizing Boyer Moore,9,1806942
+Weak Turbo Boyer Moore,9,1806942
+Weak Boyer Moore,9,1312281
+Weak Memorizing Boyer Moore,9,1312269
+Weak Turbo Boyer Moore,9,1312269
+Weak Boyer Moore,9,1616457
+Weak Memorizing Boyer Moore,9,1615676
+Weak Turbo Boyer Moore,9,1615676
+Weak Boyer Moore,9,1821166
+Weak Memorizing Boyer Moore,9,1807414
+Weak Turbo Boyer Moore,9,1807414
+Weak Boyer Moore,9,1663243
+Weak Memorizing Boyer Moore,9,1491710
+Weak Turbo Boyer Moore,9,1491710
+Weak Boyer Moore,9,1540865
+Weak Memorizing Boyer Moore,9,1381628
+Weak Turbo Boyer Moore,9,1381628
+Weak Boyer Moore,9,1615385
+Weak Memorizing Boyer Moore,9,1614641
+Weak Turbo Boyer Moore,9,1614641
+Weak Boyer Moore,9,1539050
+Weak Memorizing Boyer Moore,9,1379915
+Weak Turbo Boyer Moore,9,1379915
+Weak Boyer Moore,9,1536389
+Weak Memorizing Boyer Moore,9,1377598
+Weak Turbo Boyer Moore,9,1377598
+Weak Boyer Moore,9,1682495
+Weak Memorizing Boyer Moore,9,1679417
+Weak Turbo Boyer Moore,9,1679417
+Weak Boyer Moore,9,1616399
+Weak Memorizing Boyer Moore,9,1615622
+Weak Turbo Boyer Moore,9,1615622
+Weak Boyer Moore,9,1312648
+Weak Memorizing Boyer Moore,9,1312642
+Weak Turbo Boyer Moore,9,1312642
+Weak Boyer Moore,9,1237330
+Weak Memorizing Boyer Moore,9,1234129
+Weak Turbo Boyer Moore,9,1219379
+Weak Boyer Moore,9,1818495
+Weak Memorizing Boyer Moore,9,1804828
+Weak Turbo Boyer Moore,9,1804828
+Weak Boyer Moore,9,1313152
+Weak Memorizing Boyer Moore,9,1313140
+Weak Turbo Boyer Moore,9,1313140
+Weak Boyer Moore,9,1597015
+Weak Memorizing Boyer Moore,9,1432050
+Weak Turbo Boyer Moore,9,1432050
+Weak Boyer Moore,9,2461590
+Weak Memorizing Boyer Moore,9,2372105
+Weak Turbo Boyer Moore,9,2292820
+Weak Boyer Moore,9,1248158
+Weak Memorizing Boyer Moore,9,1147107
+Weak Turbo Boyer Moore,9,1147107
+Weak Boyer Moore,9,1599975
+Weak Memorizing Boyer Moore,9,1435159
+Weak Turbo Boyer Moore,9,1435159
+Weak Boyer Moore,9,1371258
+Weak Memorizing Boyer Moore,9,1338300
+Weak Turbo Boyer Moore,9,1306489
+Weak Boyer Moore,9,929570
+Weak Memorizing Boyer Moore,9,889525
+Weak Turbo Boyer Moore,9,889525
+Weak Boyer Moore,9,2260103
+Weak Memorizing Boyer Moore,9,2190086
+Weak Turbo Boyer Moore,9,2123393
+Weak Boyer Moore,9,1747281
+Weak Memorizing Boyer Moore,9,1743981
+Weak Turbo Boyer Moore,9,1743981
+Weak Boyer Moore,9,1539678
+Weak Memorizing Boyer Moore,9,1380441
+Weak Turbo Boyer Moore,9,1380441
+Weak Boyer Moore,9,1312771
+Weak Memorizing Boyer Moore,9,1312748
+Weak Turbo Boyer Moore,9,1312748
+Weak Boyer Moore,9,1202099
+Weak Memorizing Boyer Moore,9,1202099
+Weak Turbo Boyer Moore,9,1202099
+Weak Boyer Moore,9,1746296
+Weak Memorizing Boyer Moore,9,1743007
+Weak Turbo Boyer Moore,9,1743007
+Weak Boyer Moore,9,1230031
+Weak Memorizing Boyer Moore,9,1229974
+Weak Turbo Boyer Moore,9,1213270
+Weak Boyer Moore,9,1204663
+Weak Memorizing Boyer Moore,9,1204663
+Weak Turbo Boyer Moore,9,1204663
+Weak Boyer Moore,9,1455399
+Weak Memorizing Boyer Moore,9,1455216
+Weak Turbo Boyer Moore,9,1455216
+Weak Boyer Moore,9,2184683
+Weak Memorizing Boyer Moore,9,2117598
+Weak Turbo Boyer Moore,9,2055837
+Weak Boyer Moore,9,1541790
+Weak Memorizing Boyer Moore,9,1382999
+Weak Turbo Boyer Moore,9,1382999
+Weak Boyer Moore,9,1231234
+Weak Memorizing Boyer Moore,9,1231060
+Weak Turbo Boyer Moore,9,1218849
+Weak Boyer Moore,9,1820803
+Weak Memorizing Boyer Moore,9,1807238
+Weak Turbo Boyer Moore,9,1807238
+Weak Boyer Moore,9,1203235
+Weak Memorizing Boyer Moore,9,1203235
+Weak Turbo Boyer Moore,9,1203235
+Weak Boyer Moore,9,1823050
+Weak Memorizing Boyer Moore,9,1809493
+Weak Turbo Boyer Moore,9,1809493
+Weak Boyer Moore,9,1803264
+Weak Memorizing Boyer Moore,9,1607005
+Weak Turbo Boyer Moore,9,1607005
+Weak Boyer Moore,9,1599660
+Weak Memorizing Boyer Moore,9,1434867
+Weak Turbo Boyer Moore,9,1434867
+Weak Boyer Moore,9,1539086
+Weak Memorizing Boyer Moore,9,1379951
+Weak Turbo Boyer Moore,9,1379951
+Weak Boyer Moore,9,1296939
+Weak Memorizing Boyer Moore,9,1296563
+Weak Turbo Boyer Moore,9,1273242
+Weak Boyer Moore,9,1598571
+Weak Memorizing Boyer Moore,9,1433759
+Weak Turbo Boyer Moore,9,1433759
+Weak Boyer Moore,9,2139606
+Weak Memorizing Boyer Moore,9,2074666
+Weak Turbo Boyer Moore,9,2001917
+Weak Boyer Moore,9,1685788
+Weak Memorizing Boyer Moore,9,1682528
+Weak Turbo Boyer Moore,9,1682528
+Weak Boyer Moore,9,1602816
+Weak Memorizing Boyer Moore,9,1563475
+Weak Turbo Boyer Moore,9,1514848
+Weak Boyer Moore,9,1534218
+Weak Memorizing Boyer Moore,9,1375083
+Weak Turbo Boyer Moore,9,1375083
+Weak Boyer Moore,9,1896885
+Weak Memorizing Boyer Moore,9,1882804
+Weak Turbo Boyer Moore,9,1882804
+Weak Boyer Moore,9,2043474
+Weak Memorizing Boyer Moore,9,1980914
+Weak Turbo Boyer Moore,9,1980914
+Weak Boyer Moore,9,1541566
+Weak Memorizing Boyer Moore,9,1382775
+Weak Turbo Boyer Moore,9,1382775
+Weak Boyer Moore,9,1271239
+Weak Memorizing Boyer Moore,9,1271201
+Weak Turbo Boyer Moore,9,1238892
+Weak Boyer Moore,9,1561233
+Weak Memorizing Boyer Moore,9,1560524
+Weak Turbo Boyer Moore,9,1560524
+Weak Boyer Moore,9,1609420
+Weak Memorizing Boyer Moore,9,1608565
+Weak Turbo Boyer Moore,9,1581691
+Weak Boyer Moore,9,1616506
+Weak Memorizing Boyer Moore,9,1615726
+Weak Turbo Boyer Moore,9,1615726
+Weak Boyer Moore,9,1247775
+Weak Memorizing Boyer Moore,9,1146970
+Weak Turbo Boyer Moore,9,1146970
+Weak Boyer Moore,9,1438874
+Weak Memorizing Boyer Moore,9,1438307
+Weak Turbo Boyer Moore,9,1435332
+Weak Boyer Moore,9,1534343
+Weak Memorizing Boyer Moore,9,1375106
+Weak Turbo Boyer Moore,9,1375106
+Weak Boyer Moore,9,1561966
+Weak Memorizing Boyer Moore,9,1561226
+Weak Turbo Boyer Moore,9,1561226
+Weak Boyer Moore,9,1371463
+Weak Memorizing Boyer Moore,9,1338535
+Weak Turbo Boyer Moore,9,1306740
+Weak Boyer Moore,9,2046087
+Weak Memorizing Boyer Moore,9,1983468
+Weak Turbo Boyer Moore,9,1983468
+Weak Boyer Moore,9,1313975
+Weak Memorizing Boyer Moore,9,1313963
+Weak Turbo Boyer Moore,9,1313963
+Weak Boyer Moore,9,1229866
+Weak Memorizing Boyer Moore,9,1229716
+Weak Turbo Boyer Moore,9,1217771
+Weak Boyer Moore,9,1748631
+Weak Memorizing Boyer Moore,9,1745439
+Weak Turbo Boyer Moore,9,1745439
+Weak Boyer Moore,9,1615750
+Weak Memorizing Boyer Moore,9,1615014
+Weak Turbo Boyer Moore,9,1615014
+Weak Boyer Moore,9,1261726
+Weak Memorizing Boyer Moore,9,1159491
+Weak Turbo Boyer Moore,9,1159491
+Weak Boyer Moore,9,1298476
+Weak Memorizing Boyer Moore,9,1298066
+Weak Turbo Boyer Moore,9,1274289
+Weak Boyer Moore,10,1540534
+Weak Memorizing Boyer Moore,10,1381296
+Weak Turbo Boyer Moore,10,1381296
+Weak Boyer Moore,10,1486889
+Weak Memorizing Boyer Moore,10,1333873
+Weak Turbo Boyer Moore,10,1333873
+Weak Boyer Moore,10,1610610
+Weak Memorizing Boyer Moore,10,1608473
+Weak Turbo Boyer Moore,10,1574885
+Weak Boyer Moore,10,1683939
+Weak Memorizing Boyer Moore,10,1680798
+Weak Turbo Boyer Moore,10,1680798
+Weak Boyer Moore,10,1715078
+Weak Memorizing Boyer Moore,10,1673813
+Weak Turbo Boyer Moore,10,1627291
+Weak Boyer Moore,10,1510712
+Weak Memorizing Boyer Moore,10,1509995
+Weak Turbo Boyer Moore,10,1509995
+Weak Boyer Moore,10,2017314
+Weak Memorizing Boyer Moore,10,1952806
+Weak Turbo Boyer Moore,10,1935221
+Weak Boyer Moore,10,1282009
+Weak Memorizing Boyer Moore,10,1281300
+Weak Turbo Boyer Moore,10,1268662
+Weak Boyer Moore,10,1866002
+Weak Memorizing Boyer Moore,10,1808829
+Weak Turbo Boyer Moore,10,1808829
+Weak Boyer Moore,10,1409381
+Weak Memorizing Boyer Moore,10,1409216
+Weak Turbo Boyer Moore,10,1409216
+Weak Boyer Moore,10,1242987
+Weak Memorizing Boyer Moore,10,1242977
+Weak Turbo Boyer Moore,10,1242977
+Weak Boyer Moore,10,1541250
+Weak Memorizing Boyer Moore,10,1382455
+Weak Turbo Boyer Moore,10,1382455
+Weak Boyer Moore,10,1874488
+Weak Memorizing Boyer Moore,10,1817176
+Weak Turbo Boyer Moore,10,1817176
+Weak Boyer Moore,10,1503782
+Weak Memorizing Boyer Moore,10,1348520
+Weak Turbo Boyer Moore,10,1343167
+Weak Boyer Moore,10,1865853
+Weak Memorizing Boyer Moore,10,1808945
+Weak Turbo Boyer Moore,10,1808945
+Weak Boyer Moore,10,725942
+Weak Memorizing Boyer Moore,10,712074
+Weak Turbo Boyer Moore,10,712074
+Weak Boyer Moore,10,1321413
+Weak Memorizing Boyer Moore,10,1321379
+Weak Turbo Boyer Moore,10,1321379
+Weak Boyer Moore,10,1752156
+Weak Memorizing Boyer Moore,10,1739065
+Weak Turbo Boyer Moore,10,1739065
+Weak Boyer Moore,10,1109729
+Weak Memorizing Boyer Moore,10,1109729
+Weak Turbo Boyer Moore,10,1109729
+Weak Boyer Moore,10,1278111
+Weak Memorizing Boyer Moore,10,1247199
+Weak Turbo Boyer Moore,10,1218935
+Weak Boyer Moore,10,1871499
+Weak Memorizing Boyer Moore,10,1814591
+Weak Turbo Boyer Moore,10,1814591
+Weak Boyer Moore,10,1473397
+Weak Memorizing Boyer Moore,10,1437622
+Weak Turbo Boyer Moore,10,1401073
+Weak Boyer Moore,10,1206389
+Weak Memorizing Boyer Moore,10,1206303
+Weak Turbo Boyer Moore,10,1176888
+Weak Boyer Moore,10,1615186
+Weak Memorizing Boyer Moore,10,1614419
+Weak Turbo Boyer Moore,10,1569721
+Weak Boyer Moore,10,1752553
+Weak Memorizing Boyer Moore,10,1739500
+Weak Turbo Boyer Moore,10,1739500
+Weak Boyer Moore,10,1955142
+Weak Memorizing Boyer Moore,10,1895230
+Weak Turbo Boyer Moore,10,1895230
+Weak Boyer Moore,10,1566562
+Weak Memorizing Boyer Moore,10,1558659
+Weak Turbo Boyer Moore,10,1552877
+Weak Boyer Moore,10,1248008
+Weak Memorizing Boyer Moore,10,1146955
+Weak Turbo Boyer Moore,10,1146955
+Weak Boyer Moore,10,1615582
+Weak Memorizing Boyer Moore,10,1614829
+Weak Turbo Boyer Moore,10,1569755
+Weak Boyer Moore,10,1341000
+Weak Memorizing Boyer Moore,10,1340882
+Weak Turbo Boyer Moore,10,1316813
+Weak Boyer Moore,10,1487128
+Weak Memorizing Boyer Moore,10,1333823
+Weak Turbo Boyer Moore,10,1333823
+Weak Boyer Moore,10,1112102
+Weak Memorizing Boyer Moore,10,1112102
+Weak Turbo Boyer Moore,10,1112102
+Weak Boyer Moore,10,1874245
+Weak Memorizing Boyer Moore,10,1816548
+Weak Turbo Boyer Moore,10,1816548
+Weak Boyer Moore,10,1949480
+Weak Memorizing Boyer Moore,10,1889570
+Weak Turbo Boyer Moore,10,1889570
+Weak Boyer Moore,10,1110529
+Weak Memorizing Boyer Moore,10,1110529
+Weak Turbo Boyer Moore,10,1110529
+Weak Boyer Moore,10,1801928
+Weak Memorizing Boyer Moore,10,1798288
+Weak Turbo Boyer Moore,10,1759767
+Weak Boyer Moore,10,1961484
+Weak Memorizing Boyer Moore,10,1946557
+Weak Turbo Boyer Moore,10,1901560
+Weak Boyer Moore,10,1624803
+Weak Memorizing Boyer Moore,10,1621816
+Weak Turbo Boyer Moore,10,1621816
+Weak Boyer Moore,10,1478589
+Weak Memorizing Boyer Moore,10,1325362
+Weak Turbo Boyer Moore,10,1325362
+Weak Boyer Moore,10,1454558
+Weak Memorizing Boyer Moore,10,1454384
+Weak Turbo Boyer Moore,10,1454384
+Weak Boyer Moore,10,1622714
+Weak Memorizing Boyer Moore,10,1619778
+Weak Turbo Boyer Moore,10,1619778
+Weak Boyer Moore,10,1752099
+Weak Memorizing Boyer Moore,10,1739096
+Weak Turbo Boyer Moore,10,1739096
+Weak Boyer Moore,10,1624409
+Weak Memorizing Boyer Moore,10,1621470
+Weak Turbo Boyer Moore,10,1621470
+Weak Boyer Moore,10,1660427
+Weak Memorizing Boyer Moore,10,1659479
+Weak Turbo Boyer Moore,10,1625098
+Weak Boyer Moore,10,1625620
+Weak Memorizing Boyer Moore,10,1622563
+Weak Turbo Boyer Moore,10,1622563
+Weak Boyer Moore,10,1110205
+Weak Memorizing Boyer Moore,10,1110205
+Weak Turbo Boyer Moore,10,1110205
+Weak Boyer Moore,10,1895895
+Weak Memorizing Boyer Moore,10,1881835
+Weak Turbo Boyer Moore,10,1823378
+Weak Boyer Moore,10,1296080
+Weak Memorizing Boyer Moore,10,1295675
+Weak Turbo Boyer Moore,10,1271844
+Weak Boyer Moore,10,1369847
+Weak Memorizing Boyer Moore,10,1366224
+Weak Turbo Boyer Moore,10,1330102
+Weak Boyer Moore,10,1510085
+Weak Memorizing Boyer Moore,10,1509364
+Weak Turbo Boyer Moore,10,1509364
+Weak Boyer Moore,10,1622065
+Weak Memorizing Boyer Moore,10,1621266
+Weak Turbo Boyer Moore,10,1588898
+Weak Boyer Moore,10,1510012
+Weak Memorizing Boyer Moore,10,1509284
+Weak Turbo Boyer Moore,10,1509284
+Weak Boyer Moore,10,2330929
+Weak Memorizing Boyer Moore,10,2255918
+Weak Turbo Boyer Moore,10,2184926
+Weak Boyer Moore,10,1874318
+Weak Memorizing Boyer Moore,10,1816621
+Weak Turbo Boyer Moore,10,1816621
+Weak Boyer Moore,10,1486911
+Weak Memorizing Boyer Moore,10,1333606
+Weak Turbo Boyer Moore,10,1333606
+Weak Boyer Moore,10,1233006
+Weak Memorizing Boyer Moore,10,1133222
+Weak Turbo Boyer Moore,10,1133222
+Weak Boyer Moore,10,1733217
+Weak Memorizing Boyer Moore,10,1552059
+Weak Turbo Boyer Moore,10,1552059
+Weak Boyer Moore,10,1233522
+Weak Memorizing Boyer Moore,10,1133738
+Weak Turbo Boyer Moore,10,1133738
+Weak Boyer Moore,10,1486599
+Weak Memorizing Boyer Moore,10,1333583
+Weak Turbo Boyer Moore,10,1333583
+Weak Boyer Moore,10,2048888
+Weak Memorizing Boyer Moore,10,2032827
+Weak Turbo Boyer Moore,10,1983310
+Weak Boyer Moore,10,1874532
+Weak Memorizing Boyer Moore,10,1816835
+Weak Turbo Boyer Moore,10,1816835
+Weak Boyer Moore,10,1876878
+Weak Memorizing Boyer Moore,10,1818974
+Weak Turbo Boyer Moore,10,1818974
+Weak Boyer Moore,10,1111053
+Weak Memorizing Boyer Moore,10,1111053
+Weak Turbo Boyer Moore,10,1111053
+Weak Boyer Moore,10,1486783
+Weak Memorizing Boyer Moore,10,1333767
+Weak Turbo Boyer Moore,10,1333767
+Weak Boyer Moore,10,1675402
+Weak Memorizing Boyer Moore,10,1667351
+Weak Turbo Boyer Moore,10,1615486
+Weak Boyer Moore,10,1111453
+Weak Memorizing Boyer Moore,10,1111453
+Weak Turbo Boyer Moore,10,1111453
+Weak Boyer Moore,10,1409961
+Weak Memorizing Boyer Moore,10,1409775
+Weak Turbo Boyer Moore,10,1409775
+Weak Boyer Moore,10,1602005
+Weak Memorizing Boyer Moore,10,1436944
+Weak Turbo Boyer Moore,10,1436944
+Weak Boyer Moore,10,1482541
+Weak Memorizing Boyer Moore,10,1329314
+Weak Turbo Boyer Moore,10,1329314
+Weak Boyer Moore,10,1686329
+Weak Memorizing Boyer Moore,10,1511636
+Weak Turbo Boyer Moore,10,1511636
+Weak Boyer Moore,10,1734136
+Weak Memorizing Boyer Moore,10,1553707
+Weak Turbo Boyer Moore,10,1553707
+Weak Boyer Moore,10,1870441
+Weak Memorizing Boyer Moore,10,1812537
+Weak Turbo Boyer Moore,10,1812537
+Weak Boyer Moore,10,1985746
+Weak Memorizing Boyer Moore,10,1970820
+Weak Turbo Boyer Moore,10,1924288
+Weak Boyer Moore,10,1776878
+Weak Memorizing Boyer Moore,10,1583757
+Weak Turbo Boyer Moore,10,1583757
+Weak Boyer Moore,10,1243908
+Weak Memorizing Boyer Moore,10,1143782
+Weak Turbo Boyer Moore,10,1143782
+Weak Boyer Moore,10,1510037
+Weak Memorizing Boyer Moore,10,1509306
+Weak Turbo Boyer Moore,10,1509306
+Weak Boyer Moore,10,1542022
+Weak Memorizing Boyer Moore,10,1383229
+Weak Turbo Boyer Moore,10,1383229
+Weak Boyer Moore,10,1751828
+Weak Memorizing Boyer Moore,10,1738825
+Weak Turbo Boyer Moore,10,1738825
+Weak Boyer Moore,10,1486473
+Weak Memorizing Boyer Moore,10,1333457
+Weak Turbo Boyer Moore,10,1333457
+Weak Boyer Moore,10,1751798
+Weak Memorizing Boyer Moore,10,1738722
+Weak Turbo Boyer Moore,10,1738722
+Weak Boyer Moore,10,1875103
+Weak Memorizing Boyer Moore,10,1817659
+Weak Turbo Boyer Moore,10,1817659
+Weak Boyer Moore,10,1371266
+Weak Memorizing Boyer Moore,10,1367817
+Weak Turbo Boyer Moore,10,1331243
+Weak Boyer Moore,10,1338590
+Weak Memorizing Boyer Moore,10,1332151
+Weak Turbo Boyer Moore,10,1306354
+Weak Boyer Moore,10,1686513
+Weak Memorizing Boyer Moore,10,1512413
+Weak Turbo Boyer Moore,10,1512413
+Weak Boyer Moore,10,1171954
+Weak Memorizing Boyer Moore,10,1171934
+Weak Turbo Boyer Moore,10,1152531
+Weak Boyer Moore,10,1875964
+Weak Memorizing Boyer Moore,10,1818520
+Weak Turbo Boyer Moore,10,1818520
+Weak Boyer Moore,10,1821076
+Weak Memorizing Boyer Moore,10,1807510
+Weak Turbo Boyer Moore,10,1807510
+Weak Boyer Moore,10,1852119
+Weak Memorizing Boyer Moore,10,1848143
+Weak Turbo Boyer Moore,10,1806534
+Weak Boyer Moore,10,1109566
+Weak Memorizing Boyer Moore,10,1109566
+Weak Turbo Boyer Moore,10,1109566
+Weak Boyer Moore,10,1169945
+Weak Memorizing Boyer Moore,10,1169917
+Weak Turbo Boyer Moore,10,1150870
+Weak Boyer Moore,10,1408269
+Weak Memorizing Boyer Moore,10,1408115
+Weak Turbo Boyer Moore,10,1408115
+Weak Boyer Moore,10,1234083
+Weak Memorizing Boyer Moore,10,1232643
+Weak Turbo Boyer Moore,10,1210668
+Weak Boyer Moore,10,1751288
+Weak Memorizing Boyer Moore,10,1738185
+Weak Turbo Boyer Moore,10,1738185
+Weak Boyer Moore,10,1623237
+Weak Memorizing Boyer Moore,10,1620131
+Weak Turbo Boyer Moore,10,1620131
+Weak Boyer Moore,10,1204108
+Weak Memorizing Boyer Moore,10,1204106
+Weak Turbo Boyer Moore,10,1204106
+Weak Boyer Moore,10,1874310
+Weak Memorizing Boyer Moore,10,1816613
+Weak Turbo Boyer Moore,10,1816613
+Weak Boyer Moore,10,1278131
+Weak Memorizing Boyer Moore,10,1247523
+Weak Turbo Boyer Moore,10,1218387
+Weak Boyer Moore,10,1752143
+Weak Memorizing Boyer Moore,10,1738917
+Weak Turbo Boyer Moore,10,1738917
+Weak Boyer Moore,10,1485449
+Weak Memorizing Boyer Moore,10,1332222
+Weak Turbo Boyer Moore,10,1332222
+Weak Boyer Moore,10,1256938
+Weak Memorizing Boyer Moore,10,1155726
+Weak Turbo Boyer Moore,10,1155726
