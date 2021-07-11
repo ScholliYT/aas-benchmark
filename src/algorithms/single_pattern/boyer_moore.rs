@@ -86,13 +86,18 @@ pub fn weak_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize> {
     let n = text.len();
 
     let good_suff = good_suffixes(pattern);
+    let period = per(pattern);
     let mut j = m - 1;
 
     let mut matches = Vec::new();
+
+    let mut read_count = 0;
+
     while j < n {
         let mut i = (m - 1) as isize;
 
         while i >= 0 && pattern[i as usize] == text[j + 1 + i as usize - m] {
+            read_count += 1;
             i -= 1;
         }
 
@@ -101,12 +106,12 @@ pub fn weak_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize> {
         }
 
         if i < 0 {
-            j += per(pattern);
+            j += period;
         } else {
             j += good_suff[i as usize];
         }
     }
-
+    println!("BM Read count: {}", read_count);
     matches
 }
 
@@ -116,20 +121,22 @@ pub fn weak_memorizing_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize
     let n = text.len();
 
     let good_suff = good_suffixes(pattern);
+    let period = per(pattern);
     let mut j = m - 1;
     let mut shift: usize = 0;
     let mut mem: usize = 0;
 
     let mut matches = Vec::new();
 
-
-
+    let mut read_count = 0;
 
     while j < n {
         let mut i = (m - 1) as isize;
 
         while i >= 0 && pattern[i as usize] == text[j + 1 + i as usize - m] {
-            if i as usize == m - shift && mem > 0 {
+            read_count += 1;
+            if i == (m - shift) as isize && mem > 0 {
+                //println!("Jumping above mem={} shifting at j={}", mem, j);
                 i = i - (mem as isize) - 1; // Jump
             } else {
                 i -= 1;
@@ -141,7 +148,7 @@ pub fn weak_memorizing_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize
         }
 
         if i < 0 {
-            shift = per(pattern);
+            shift = period;
             mem = m - shift;
         } else {
             shift = good_suff[i as usize];
@@ -149,7 +156,7 @@ pub fn weak_memorizing_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize
         }
         j += shift;
     }
-
+    println!("Mem BM Read count: {}", read_count);
     matches
 }
 
@@ -159,17 +166,22 @@ pub fn weak_turbo_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize> {
     let n = text.len();
 
     let good_suff = good_suffixes(pattern);
+    let period = per(pattern);
     let mut shift: usize = 0;
     let mut mem: usize = 0;
     let mut j = m - 1;
 
     let mut matches = Vec::new();
 
+    let mut read_count = 0;
+
     while j < n {
         let mut i = (m - 1) as isize;
 
         while i >= 0 && pattern[i as usize] == text[j + 1 + i as usize - m] {
-            if i as usize == m - shift {
+            read_count += 1;
+            if i as usize == m - shift && mem > 0 {
+                //println!("Jumping above mem={} shifting at j={}", mem, j);
                 i = i - (mem as isize) - 1; // Jump
             } else {
                 i -= 1;
@@ -181,7 +193,7 @@ pub fn weak_turbo_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize> {
         }
 
         if i < 0 {
-            shift = per(pattern);
+            shift = period;
             mem = m - shift;
         } else {
             let turbo: isize = (mem as isize) + 1 + i - (m as isize);
@@ -190,12 +202,13 @@ pub fn weak_turbo_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize> {
                 mem = min(m - shift, m - 1 - (i as usize));
             } else {
                 shift = max(turbo, (m as isize) - 1 - i) as usize;
+                //println!("Turbo shifting by={} with turbo={} mem={}", shift, turbo, mem);
                 mem = 0;
             }
         }
         j += shift; // Shift
     }
-
+    println!("Turbo BM Read count: {}", read_count);
     matches
 }
 
