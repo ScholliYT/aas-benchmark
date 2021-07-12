@@ -1,34 +1,4 @@
 algorithm,text_length,pattern_length,execution,matches,prep_time_ms,time_ms
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-BM Read count: 2055731
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Mem BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
-Turbo BM Read count: 1698481
 Weak Boyer Moore,10000000,2,0,625886,0,32
 Weak Boyer Moore,10000000,2,1,625886,0,29
 Weak Boyer Moore,10000000,2,2,625886,0,27
@@ -99,36 +69,6 @@ Shift-And,10000000,2,6,625886,0,15
 Shift-And,10000000,2,7,625886,0,18
 Shift-And,10000000,2,8,625886,0,16
 Shift-And,10000000,2,9,625886,0,18
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-BM Read count: 2052460
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Mem BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
-Turbo BM Read count: 1695326
 Weak Boyer Moore,10000000,2,0,624097,0,28
 Weak Boyer Moore,10000000,2,1,624097,0,26
 Weak Boyer Moore,10000000,2,2,624097,0,26
@@ -199,36 +139,6 @@ Shift-And,10000000,2,6,624097,0,14
 Shift-And,10000000,2,7,624097,0,18
 Shift-And,10000000,2,8,624097,0,16
 Shift-And,10000000,2,9,624097,0,14
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-BM Read count: 2052048
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Mem BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
-Turbo BM Read count: 1694633
 Weak Boyer Moore,10000000,2,0,624153,0,28
 Weak Boyer Moore,10000000,2,1,624153,0,27
 Weak Boyer Moore,10000000,2,2,624153,0,24
@@ -299,36 +209,6 @@ Shift-And,10000000,2,6,624153,0,16
 Shift-And,10000000,2,7,624153,0,24
 Shift-And,10000000,2,8,624153,0,16
 Shift-And,10000000,2,9,624153,0,17
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-BM Read count: 2057030
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Mem BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
-Turbo BM Read count: 1699386
 Weak Boyer Moore,10000000,2,0,626115,0,28
 Weak Boyer Moore,10000000,2,1,626115,0,29
 Weak Boyer Moore,10000000,2,2,626115,0,27
@@ -399,36 +279,6 @@ Shift-And,10000000,2,6,626115,0,15
 Shift-And,10000000,2,7,626115,0,14
 Shift-And,10000000,2,8,626115,0,16
 Shift-And,10000000,2,9,626115,0,14
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-BM Read count: 1381504
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Mem BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
-Turbo BM Read count: 1196517
 Weak Boyer Moore,10000000,3,0,156865,0,17
 Weak Boyer Moore,10000000,3,1,156865,0,19
 Weak Boyer Moore,10000000,3,2,156865,0,17
@@ -499,36 +349,6 @@ Shift-And,10000000,3,6,156865,0,11
 Shift-And,10000000,3,7,156865,0,10
 Shift-And,10000000,3,8,156865,0,12
 Shift-And,10000000,3,9,156865,0,10
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-BM Read count: 1379843
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Mem BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
-Turbo BM Read count: 1196163
 Weak Boyer Moore,10000000,3,0,156185,0,19
 Weak Boyer Moore,10000000,3,1,156185,0,18
 Weak Boyer Moore,10000000,3,2,156185,0,20
@@ -599,36 +419,6 @@ Shift-And,10000000,3,6,156185,0,11
 Shift-And,10000000,3,7,156185,0,12
 Shift-And,10000000,3,8,156185,0,11
 Shift-And,10000000,3,9,156185,0,10
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-BM Read count: 1375848
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Mem BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
-Turbo BM Read count: 1192645
 Weak Boyer Moore,10000000,3,0,155282,0,21
 Weak Boyer Moore,10000000,3,1,155282,0,21
 Weak Boyer Moore,10000000,3,2,155282,0,18
@@ -699,36 +489,6 @@ Shift-And,10000000,3,6,155282,0,10
 Shift-And,10000000,3,7,155282,0,10
 Shift-And,10000000,3,8,155282,0,11
 Shift-And,10000000,3,9,155282,0,11
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-BM Read count: 2170145
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Mem BM Read count: 2108931
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
-Turbo BM Read count: 2026332
 Weak Boyer Moore,10000000,4,0,38982,0,29
 Weak Boyer Moore,10000000,4,1,38982,0,30
 Weak Boyer Moore,10000000,4,2,38982,0,33
@@ -799,36 +559,6 @@ Shift-And,10000000,4,6,38982,0,12
 Shift-And,10000000,4,7,38982,0,10
 Shift-And,10000000,4,8,38982,0,10
 Shift-And,10000000,4,9,38982,0,10
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-BM Read count: 968340
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Mem BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
-Turbo BM Read count: 898817
 Weak Boyer Moore,10000000,4,0,38874,0,12
 Weak Boyer Moore,10000000,4,1,38874,0,13
 Weak Boyer Moore,10000000,4,2,38874,0,16
@@ -899,36 +629,6 @@ Shift-And,10000000,4,6,38874,0,10
 Shift-And,10000000,4,7,38874,0,9
 Shift-And,10000000,4,8,38874,0,9
 Shift-And,10000000,4,9,38874,0,9
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-BM Read count: 2167763
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Mem BM Read count: 2106337
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
-Turbo BM Read count: 2023441
 Weak Boyer Moore,10000000,4,0,39020,0,32
 Weak Boyer Moore,10000000,4,1,39020,0,32
 Weak Boyer Moore,10000000,4,2,39020,0,32
@@ -999,36 +699,6 @@ Shift-And,10000000,4,6,39020,0,9
 Shift-And,10000000,4,7,39020,0,9
 Shift-And,10000000,4,8,39020,0,9
 Shift-And,10000000,4,9,39020,0,9
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-BM Read count: 2172250
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Mem BM Read count: 2110776
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
-Turbo BM Read count: 2027355
 Weak Boyer Moore,10000000,4,0,39194,0,29
 Weak Boyer Moore,10000000,4,1,39194,0,29
 Weak Boyer Moore,10000000,4,2,39194,0,28
@@ -1099,36 +769,6 @@ Shift-And,10000000,4,6,39194,0,11
 Shift-And,10000000,4,7,39194,0,9
 Shift-And,10000000,4,8,39194,0,9
 Shift-And,10000000,4,9,39194,0,9
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-BM Read count: 2169621
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Mem BM Read count: 2108111
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
-Turbo BM Read count: 2024261
 Weak Boyer Moore,10000000,4,0,39171,0,34
 Weak Boyer Moore,10000000,4,1,39171,0,33
 Weak Boyer Moore,10000000,4,2,39171,0,29
@@ -1199,36 +839,6 @@ Shift-And,10000000,4,6,39171,0,9
 Shift-And,10000000,4,7,39171,0,9
 Shift-And,10000000,4,8,39171,0,10
 Shift-And,10000000,4,9,39171,0,10
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-BM Read count: 2168643
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Mem BM Read count: 2107569
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
-Turbo BM Read count: 2023956
 Weak Boyer Moore,10000000,4,0,38985,0,30
 Weak Boyer Moore,10000000,4,1,38985,0,31
 Weak Boyer Moore,10000000,4,2,38985,0,32
@@ -1299,36 +909,6 @@ Shift-And,10000000,4,6,38985,0,9
 Shift-And,10000000,4,7,38985,0,9
 Shift-And,10000000,4,8,38985,0,9
 Shift-And,10000000,4,9,38985,0,9
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-BM Read count: 965550
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Mem BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
-Turbo BM Read count: 895779
 Weak Boyer Moore,10000000,4,0,38789,0,14
 Weak Boyer Moore,10000000,4,1,38789,0,12
 Weak Boyer Moore,10000000,4,2,38789,0,13
@@ -1399,36 +979,6 @@ Shift-And,10000000,4,6,38789,0,9
 Shift-And,10000000,4,7,38789,0,9
 Shift-And,10000000,4,8,38789,0,10
 Shift-And,10000000,4,9,38789,0,9
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-BM Read count: 966118
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Mem BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
-Turbo BM Read count: 896896
 Weak Boyer Moore,10000000,4,0,38843,0,13
 Weak Boyer Moore,10000000,4,1,38843,0,14
 Weak Boyer Moore,10000000,4,2,38843,0,13
@@ -1499,36 +1049,6 @@ Shift-And,10000000,4,6,38843,0,9
 Shift-And,10000000,4,7,38843,0,9
 Shift-And,10000000,4,8,38843,0,9
 Shift-And,10000000,4,9,38843,0,10
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-BM Read count: 2170995
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Mem BM Read count: 2109697
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
-Turbo BM Read count: 2025570
 Weak Boyer Moore,10000000,4,0,39179,0,30
 Weak Boyer Moore,10000000,4,1,39179,0,30
 Weak Boyer Moore,10000000,4,2,39179,0,30
@@ -1599,36 +1119,6 @@ Shift-And,10000000,4,6,39179,0,9
 Shift-And,10000000,4,7,39179,0,9
 Shift-And,10000000,4,8,39179,0,9
 Shift-And,10000000,4,9,39179,0,9
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-BM Read count: 2171289
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Mem BM Read count: 2109585
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
-Turbo BM Read count: 2025760
 Weak Boyer Moore,10000000,4,0,39245,0,34
 Weak Boyer Moore,10000000,4,1,39245,0,29
 Weak Boyer Moore,10000000,4,2,39245,0,30
@@ -1699,36 +1189,6 @@ Shift-And,10000000,4,6,39245,0,9
 Shift-And,10000000,4,7,39245,0,10
 Shift-And,10000000,4,8,39245,0,10
 Shift-And,10000000,4,9,39245,0,11
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-BM Read count: 2172970
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Mem BM Read count: 2111732
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
-Turbo BM Read count: 2027777
 Weak Boyer Moore,10000000,4,0,39192,0,34
 Weak Boyer Moore,10000000,4,1,39192,0,39
 Weak Boyer Moore,10000000,4,2,39192,0,36
@@ -1799,36 +1259,6 @@ Shift-And,10000000,4,6,39192,0,9
 Shift-And,10000000,4,7,39192,0,10
 Shift-And,10000000,4,8,39192,0,10
 Shift-And,10000000,4,9,39192,0,9
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-BM Read count: 2169345
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Mem BM Read count: 2107775
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
-Turbo BM Read count: 2023561
 Weak Boyer Moore,10000000,4,0,39090,0,30
 Weak Boyer Moore,10000000,4,1,39090,0,29
 Weak Boyer Moore,10000000,4,2,39090,0,31
@@ -1899,36 +1329,6 @@ Shift-And,10000000,4,6,39090,0,11
 Shift-And,10000000,4,7,39090,0,10
 Shift-And,10000000,4,8,39090,0,10
 Shift-And,10000000,4,9,39090,0,11
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-BM Read count: 1966444
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Mem BM Read count: 1951970
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
-Turbo BM Read count: 1937998
 Weak Boyer Moore,10000000,5,0,9797,0,32
 Weak Boyer Moore,10000000,5,1,9797,0,31
 Weak Boyer Moore,10000000,5,2,9797,0,30
@@ -1999,36 +1399,6 @@ Shift-And,10000000,5,6,9797,0,8
 Shift-And,10000000,5,7,9797,0,9
 Shift-And,10000000,5,8,9797,0,8
 Shift-And,10000000,5,9,9797,0,9
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-BM Read count: 734407
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Mem BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
-Turbo BM Read count: 710921
 Weak Boyer Moore,10000000,5,0,9764,0,10
 Weak Boyer Moore,10000000,5,1,9764,0,10
 Weak Boyer Moore,10000000,5,2,9764,0,10
@@ -2099,36 +1469,6 @@ Shift-And,10000000,5,6,9764,0,8
 Shift-And,10000000,5,7,9764,0,8
 Shift-And,10000000,5,8,9764,0,8
 Shift-And,10000000,5,9,9764,0,8
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-BM Read count: 735527
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Mem BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
-Turbo BM Read count: 712451
 Weak Boyer Moore,10000000,5,0,9648,0,11
 Weak Boyer Moore,10000000,5,1,9648,0,9
 Weak Boyer Moore,10000000,5,2,9648,0,9
@@ -2199,36 +1539,6 @@ Shift-And,10000000,5,6,9648,0,9
 Shift-And,10000000,5,7,9648,0,9
 Shift-And,10000000,5,8,9648,0,9
 Shift-And,10000000,5,9,9648,0,10
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-BM Read count: 1962298
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Mem BM Read count: 1948089
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
-Turbo BM Read count: 1934619
 Weak Boyer Moore,10000000,5,0,9686,0,28
 Weak Boyer Moore,10000000,5,1,9686,0,28
 Weak Boyer Moore,10000000,5,2,9686,0,31
@@ -2299,36 +1609,6 @@ Shift-And,10000000,5,6,9686,0,10
 Shift-And,10000000,5,7,9686,0,9
 Shift-And,10000000,5,8,9686,0,9
 Shift-And,10000000,5,9,9686,0,8
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-BM Read count: 1964857
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Mem BM Read count: 1950564
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
-Turbo BM Read count: 1936842
 Weak Boyer Moore,10000000,5,0,9747,0,27
 Weak Boyer Moore,10000000,5,1,9747,0,29
 Weak Boyer Moore,10000000,5,2,9747,0,28
@@ -2399,36 +1679,6 @@ Shift-And,10000000,5,6,9747,0,9
 Shift-And,10000000,5,7,9747,0,8
 Shift-And,10000000,5,8,9747,0,9
 Shift-And,10000000,5,9,9747,0,8
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-BM Read count: 1962288
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Mem BM Read count: 1947901
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
-Turbo BM Read count: 1934592
 Weak Boyer Moore,10000000,5,0,9757,0,26
 Weak Boyer Moore,10000000,5,1,9757,0,26
 Weak Boyer Moore,10000000,5,2,9757,0,29
@@ -2499,36 +1749,6 @@ Shift-And,10000000,5,6,9757,0,9
 Shift-And,10000000,5,7,9757,0,9
 Shift-And,10000000,5,8,9757,0,9
 Shift-And,10000000,5,9,9757,0,9
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-BM Read count: 1961478
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Mem BM Read count: 1947223
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
-Turbo BM Read count: 1933581
 Weak Boyer Moore,10000000,5,0,9728,0,28
 Weak Boyer Moore,10000000,5,1,9728,0,26
 Weak Boyer Moore,10000000,5,2,9728,0,27
@@ -2599,36 +1819,6 @@ Shift-And,10000000,5,6,9728,0,11
 Shift-And,10000000,5,7,9728,0,9
 Shift-And,10000000,5,8,9728,0,9
 Shift-And,10000000,5,9,9728,0,9
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-BM Read count: 1964852
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Mem BM Read count: 1950414
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
-Turbo BM Read count: 1936434
 Weak Boyer Moore,10000000,5,0,9862,0,30
 Weak Boyer Moore,10000000,5,1,9862,0,28
 Weak Boyer Moore,10000000,5,2,9862,0,27
@@ -2699,36 +1889,6 @@ Shift-And,10000000,5,6,9862,0,9
 Shift-And,10000000,5,7,9862,0,8
 Shift-And,10000000,5,8,9862,0,9
 Shift-And,10000000,5,9,9862,0,9
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-BM Read count: 1962308
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Mem BM Read count: 1948218
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
-Turbo BM Read count: 1934496
 Weak Boyer Moore,10000000,5,0,9673,0,28
 Weak Boyer Moore,10000000,5,1,9673,0,37
 Weak Boyer Moore,10000000,5,2,9673,0,31
@@ -2799,36 +1959,6 @@ Shift-And,10000000,5,6,9673,0,8
 Shift-And,10000000,5,7,9673,0,8
 Shift-And,10000000,5,8,9673,0,8
 Shift-And,10000000,5,9,9673,0,9
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-BM Read count: 1963100
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Mem BM Read count: 1948785
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
-Turbo BM Read count: 1935037
 Weak Boyer Moore,10000000,5,0,9781,0,27
 Weak Boyer Moore,10000000,5,1,9781,0,28
 Weak Boyer Moore,10000000,5,2,9781,0,27
@@ -2899,36 +2029,6 @@ Shift-And,10000000,5,6,9781,0,9
 Shift-And,10000000,5,7,9781,0,9
 Shift-And,10000000,5,8,9781,0,8
 Shift-And,10000000,5,9,9781,0,8
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-BM Read count: 1962198
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Mem BM Read count: 1947914
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
-Turbo BM Read count: 1934052
 Weak Boyer Moore,10000000,5,0,9769,0,30
 Weak Boyer Moore,10000000,5,1,9769,0,33
 Weak Boyer Moore,10000000,5,2,9769,0,28
@@ -2999,36 +2099,6 @@ Shift-And,10000000,5,6,9769,0,11
 Shift-And,10000000,5,7,9769,0,12
 Shift-And,10000000,5,8,9769,0,10
 Shift-And,10000000,5,9,9769,0,9
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-BM Read count: 736633
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Mem BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
-Turbo BM Read count: 712989
 Weak Boyer Moore,10000000,5,0,9840,0,10
 Weak Boyer Moore,10000000,5,1,9840,0,11
 Weak Boyer Moore,10000000,5,2,9840,0,11
@@ -3099,36 +2169,6 @@ Shift-And,10000000,5,6,9840,0,9
 Shift-And,10000000,5,7,9840,0,10
 Shift-And,10000000,5,8,9840,0,10
 Shift-And,10000000,5,9,9840,0,11
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-BM Read count: 1963255
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Mem BM Read count: 1949124
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
-Turbo BM Read count: 1935590
 Weak Boyer Moore,10000000,5,0,9696,0,28
 Weak Boyer Moore,10000000,5,1,9696,0,33
 Weak Boyer Moore,10000000,5,2,9696,0,29
@@ -3199,36 +2239,6 @@ Shift-And,10000000,5,6,9696,0,9
 Shift-And,10000000,5,7,9696,0,9
 Shift-And,10000000,5,8,9696,0,10
 Shift-And,10000000,5,9,9696,0,10
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-BM Read count: 1966170
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Mem BM Read count: 1951616
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
-Turbo BM Read count: 1938320
 Weak Boyer Moore,10000000,5,0,9927,0,30
 Weak Boyer Moore,10000000,5,1,9927,0,29
 Weak Boyer Moore,10000000,5,2,9927,0,27
@@ -3299,36 +2309,6 @@ Shift-And,10000000,5,6,9927,0,8
 Shift-And,10000000,5,7,9927,0,8
 Shift-And,10000000,5,8,9927,0,8
 Shift-And,10000000,5,9,9927,0,8
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-BM Read count: 734945
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Mem BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
-Turbo BM Read count: 711570
 Weak Boyer Moore,10000000,5,0,9686,0,9
 Weak Boyer Moore,10000000,5,1,9686,0,9
 Weak Boyer Moore,10000000,5,2,9686,0,10
@@ -3399,36 +2379,6 @@ Shift-And,10000000,5,6,9686,0,10
 Shift-And,10000000,5,7,9686,0,10
 Shift-And,10000000,5,8,9686,0,10
 Shift-And,10000000,5,9,9686,0,8
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-BM Read count: 1636600
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Mem BM Read count: 1631314
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
-Turbo BM Read count: 1602568
 Weak Boyer Moore,10000000,6,0,2525,0,21
 Weak Boyer Moore,10000000,6,1,2525,0,23
 Weak Boyer Moore,10000000,6,2,2525,0,22
@@ -3499,36 +2449,6 @@ Shift-And,10000000,6,6,2525,0,9
 Shift-And,10000000,6,7,2525,0,8
 Shift-And,10000000,6,8,2525,0,8
 Shift-And,10000000,6,9,2525,0,11
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-BM Read count: 1797012
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Mem BM Read count: 1603890
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
-Turbo BM Read count: 1583690
 Weak Boyer Moore,10000000,6,0,2534,0,25
 Weak Boyer Moore,10000000,6,1,2534,0,25
 Weak Boyer Moore,10000000,6,2,2534,0,33
@@ -3599,36 +2519,6 @@ Shift-And,10000000,6,6,2534,0,8
 Shift-And,10000000,6,7,2534,0,9
 Shift-And,10000000,6,8,2534,0,8
 Shift-And,10000000,6,9,2534,0,9
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-BM Read count: 1636131
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Mem BM Read count: 1631409
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
-Turbo BM Read count: 1602438
 Weak Boyer Moore,10000000,6,0,2386,0,25
 Weak Boyer Moore,10000000,6,1,2386,0,22
 Weak Boyer Moore,10000000,6,2,2386,0,21
@@ -3699,36 +2589,6 @@ Shift-And,10000000,6,6,2386,0,8
 Shift-And,10000000,6,7,2386,0,8
 Shift-And,10000000,6,8,2386,0,10
 Shift-And,10000000,6,9,2386,0,8
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-BM Read count: 1622698
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Mem BM Read count: 1617354
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
-Turbo BM Read count: 1563901
 Weak Boyer Moore,10000000,6,0,2477,0,22
 Weak Boyer Moore,10000000,6,1,2477,0,22
 Weak Boyer Moore,10000000,6,2,2477,0,24
@@ -3799,36 +2659,6 @@ Shift-And,10000000,6,6,2477,0,11
 Shift-And,10000000,6,7,2477,0,11
 Shift-And,10000000,6,8,2477,0,10
 Shift-And,10000000,6,9,2477,0,9
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-BM Read count: 2405524
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Mem BM Read count: 2325960
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
-Turbo BM Read count: 2289299
 Weak Boyer Moore,10000000,6,0,2414,0,35
 Weak Boyer Moore,10000000,6,1,2414,0,35
 Weak Boyer Moore,10000000,6,2,2414,0,37
@@ -3899,36 +2729,6 @@ Shift-And,10000000,6,6,2414,0,10
 Shift-And,10000000,6,7,2414,0,9
 Shift-And,10000000,6,8,2414,0,10
 Shift-And,10000000,6,9,2414,0,10
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-BM Read count: 1636059
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Mem BM Read count: 1630983
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
-Turbo BM Read count: 1602318
 Weak Boyer Moore,10000000,6,0,2457,0,25
 Weak Boyer Moore,10000000,6,1,2457,0,24
 Weak Boyer Moore,10000000,6,2,2457,0,23
@@ -3999,36 +2799,6 @@ Shift-And,10000000,6,6,2457,0,10
 Shift-And,10000000,6,7,2457,0,9
 Shift-And,10000000,6,8,2457,0,10
 Shift-And,10000000,6,9,2457,0,9
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-BM Read count: 1633681
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Mem BM Read count: 1628830
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
-Turbo BM Read count: 1600104
 Weak Boyer Moore,10000000,6,0,2360,0,24
 Weak Boyer Moore,10000000,6,1,2360,0,24
 Weak Boyer Moore,10000000,6,2,2360,0,26
@@ -4099,36 +2869,6 @@ Shift-And,10000000,6,6,2360,0,8
 Shift-And,10000000,6,7,2360,0,8
 Shift-And,10000000,6,8,2360,0,8
 Shift-And,10000000,6,9,2360,0,8
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-BM Read count: 1792790
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Mem BM Read count: 1600062
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
-Turbo BM Read count: 1580163
 Weak Boyer Moore,10000000,6,0,2364,0,25
 Weak Boyer Moore,10000000,6,1,2364,0,22
 Weak Boyer Moore,10000000,6,2,2364,0,24
@@ -4199,36 +2939,6 @@ Shift-And,10000000,6,6,2364,0,8
 Shift-And,10000000,6,7,2364,0,8
 Shift-And,10000000,6,8,2364,0,8
 Shift-And,10000000,6,9,2364,0,8
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-BM Read count: 1634464
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Mem BM Read count: 1629436
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
-Turbo BM Read count: 1601274
 Weak Boyer Moore,10000000,6,0,2442,0,23
 Weak Boyer Moore,10000000,6,1,2442,0,22
 Weak Boyer Moore,10000000,6,2,2442,0,23
@@ -4299,36 +3009,6 @@ Shift-And,10000000,6,6,2442,0,9
 Shift-And,10000000,6,7,2442,0,8
 Shift-And,10000000,6,8,2442,0,9
 Shift-And,10000000,6,9,2442,0,8
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-BM Read count: 1624553
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Mem BM Read count: 1619427
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
-Turbo BM Read count: 1565262
 Weak Boyer Moore,10000000,6,0,2368,0,24
 Weak Boyer Moore,10000000,6,1,2368,0,23
 Weak Boyer Moore,10000000,6,2,2368,0,23
@@ -4399,36 +3079,6 @@ Shift-And,10000000,6,6,2368,0,8
 Shift-And,10000000,6,7,2368,0,9
 Shift-And,10000000,6,8,2368,0,9
 Shift-And,10000000,6,9,2368,0,16
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-BM Read count: 1635993
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Mem BM Read count: 1630971
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
-Turbo BM Read count: 1602061
 Weak Boyer Moore,10000000,6,0,2390,0,23
 Weak Boyer Moore,10000000,6,1,2390,0,21
 Weak Boyer Moore,10000000,6,2,2390,0,22
@@ -4499,36 +3149,6 @@ Shift-And,10000000,6,6,2390,0,9
 Shift-And,10000000,6,7,2390,0,11
 Shift-And,10000000,6,8,2390,0,9
 Shift-And,10000000,6,9,2390,0,10
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-BM Read count: 1635761
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Mem BM Read count: 1630763
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
-Turbo BM Read count: 1601920
 Weak Boyer Moore,10000000,6,0,2412,0,30
 Weak Boyer Moore,10000000,6,1,2412,0,24
 Weak Boyer Moore,10000000,6,2,2412,0,28
@@ -4599,36 +3219,6 @@ Shift-And,10000000,6,6,2412,0,9
 Shift-And,10000000,6,7,2412,0,9
 Shift-And,10000000,6,8,2412,0,12
 Shift-And,10000000,6,9,2412,0,13
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-BM Read count: 2404772
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Mem BM Read count: 2325160
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
-Turbo BM Read count: 2288662
 Weak Boyer Moore,10000000,6,0,2421,0,34
 Weak Boyer Moore,10000000,6,1,2421,0,32
 Weak Boyer Moore,10000000,6,2,2421,0,32
@@ -4699,36 +3289,6 @@ Shift-And,10000000,6,6,2421,0,10
 Shift-And,10000000,6,7,2421,0,8
 Shift-And,10000000,6,8,2421,0,9
 Shift-And,10000000,6,9,2421,0,9
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-BM Read count: 2401895
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Mem BM Read count: 2322366
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
-Turbo BM Read count: 2286026
 Weak Boyer Moore,10000000,6,0,2365,0,43
 Weak Boyer Moore,10000000,6,1,2365,0,46
 Weak Boyer Moore,10000000,6,2,2365,0,47
@@ -4799,36 +3359,6 @@ Shift-And,10000000,6,6,2365,0,8
 Shift-And,10000000,6,7,2365,0,8
 Shift-And,10000000,6,8,2365,0,9
 Shift-And,10000000,6,9,2365,0,9
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-BM Read count: 1626183
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Mem BM Read count: 1620785
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
-Turbo BM Read count: 1566508
 Weak Boyer Moore,10000000,6,0,2466,0,22
 Weak Boyer Moore,10000000,6,1,2466,0,24
 Weak Boyer Moore,10000000,6,2,2466,0,24
@@ -4899,36 +3429,6 @@ Shift-And,10000000,6,6,2466,0,10
 Shift-And,10000000,6,7,2466,0,8
 Shift-And,10000000,6,8,2466,0,10
 Shift-And,10000000,6,9,2466,0,10
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-BM Read count: 2403837
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Mem BM Read count: 2324571
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
-Turbo BM Read count: 2287853
 Weak Boyer Moore,10000000,6,0,2398,0,35
 Weak Boyer Moore,10000000,6,1,2398,0,39
 Weak Boyer Moore,10000000,6,2,2398,0,34
@@ -4999,36 +3499,6 @@ Shift-And,10000000,6,6,2398,0,10
 Shift-And,10000000,6,7,2398,0,10
 Shift-And,10000000,6,8,2398,0,9
 Shift-And,10000000,6,9,2398,0,9
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-BM Read count: 1623627
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Mem BM Read count: 1618225
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
-Turbo BM Read count: 1564179
 Weak Boyer Moore,10000000,6,0,2493,0,24
 Weak Boyer Moore,10000000,6,1,2493,0,23
 Weak Boyer Moore,10000000,6,2,2493,0,23
@@ -5099,36 +3569,6 @@ Shift-And,10000000,6,6,2493,0,9
 Shift-And,10000000,6,7,2493,0,9
 Shift-And,10000000,6,8,2493,0,11
 Shift-And,10000000,6,9,2493,0,9
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-BM Read count: 1622752
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Mem BM Read count: 1617414
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
-Turbo BM Read count: 1563711
 Weak Boyer Moore,10000000,6,0,2443,0,23
 Weak Boyer Moore,10000000,6,1,2443,0,21
 Weak Boyer Moore,10000000,6,2,2443,0,22
@@ -5199,36 +3639,6 @@ Shift-And,10000000,6,6,2443,0,9
 Shift-And,10000000,6,7,2443,0,9
 Shift-And,10000000,6,8,2443,0,9
 Shift-And,10000000,6,9,2443,0,9
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-BM Read count: 2401479
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Mem BM Read count: 2322417
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
-Turbo BM Read count: 2286251
 Weak Boyer Moore,10000000,6,0,2442,0,32
 Weak Boyer Moore,10000000,6,1,2442,0,31
 Weak Boyer Moore,10000000,6,2,2442,0,32
@@ -5299,36 +3709,6 @@ Shift-And,10000000,6,6,2442,0,20
 Shift-And,10000000,6,7,2442,0,9
 Shift-And,10000000,6,8,2442,0,9
 Shift-And,10000000,6,9,2442,0,9
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-BM Read count: 1795186
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Mem BM Read count: 1601273
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
-Turbo BM Read count: 1579589
 Weak Boyer Moore,10000000,6,0,2457,0,21
 Weak Boyer Moore,10000000,6,1,2457,0,21
 Weak Boyer Moore,10000000,6,2,2457,0,25
@@ -5399,36 +3779,6 @@ Shift-And,10000000,6,6,2457,0,9
 Shift-And,10000000,6,7,2457,0,9
 Shift-And,10000000,6,8,2457,0,9
 Shift-And,10000000,6,9,2457,0,8
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-BM Read count: 1586139
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Mem BM Read count: 1585056
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
-Turbo BM Read count: 1580065
 Weak Boyer Moore,10000000,7,0,590,0,23
 Weak Boyer Moore,10000000,7,1,590,0,21
 Weak Boyer Moore,10000000,7,2,590,0,21
@@ -5499,36 +3849,6 @@ Shift-And,10000000,7,6,590,0,11
 Shift-And,10000000,7,7,590,0,9
 Shift-And,10000000,7,8,590,0,10
 Shift-And,10000000,7,9,590,0,13
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-BM Read count: 1733310
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Mem BM Read count: 1551056
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
-Turbo BM Read count: 1542703
 Weak Boyer Moore,10000000,7,0,609,0,21
 Weak Boyer Moore,10000000,7,1,609,0,25
 Weak Boyer Moore,10000000,7,2,609,0,23
@@ -5599,36 +3919,6 @@ Shift-And,10000000,7,6,609,0,10
 Shift-And,10000000,7,7,609,0,9
 Shift-And,10000000,7,8,609,0,8
 Shift-And,10000000,7,9,609,0,9
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-BM Read count: 1515910
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Mem BM Read count: 1514497
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
-Turbo BM Read count: 1505865
 Weak Boyer Moore,10000000,7,0,622,0,22
 Weak Boyer Moore,10000000,7,1,622,0,21
 Weak Boyer Moore,10000000,7,2,622,0,21
@@ -5699,36 +3989,6 @@ Shift-And,10000000,7,6,622,0,9
 Shift-And,10000000,7,7,622,0,9
 Shift-And,10000000,7,8,622,0,9
 Shift-And,10000000,7,9,622,0,11
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-BM Read count: 1586995
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Mem BM Read count: 1585895
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
-Turbo BM Read count: 1580825
 Weak Boyer Moore,10000000,7,0,620,0,29
 Weak Boyer Moore,10000000,7,1,620,0,23
 Weak Boyer Moore,10000000,7,2,620,0,28
@@ -5799,36 +4059,6 @@ Shift-And,10000000,7,6,620,0,9
 Shift-And,10000000,7,7,620,0,8
 Shift-And,10000000,7,8,620,0,8
 Shift-And,10000000,7,9,620,0,9
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-BM Read count: 1730798
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Mem BM Read count: 1548272
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
-Turbo BM Read count: 1540060
 Weak Boyer Moore,10000000,7,0,624,0,30
 Weak Boyer Moore,10000000,7,1,624,0,21
 Weak Boyer Moore,10000000,7,2,624,0,21
@@ -5899,36 +4129,6 @@ Shift-And,10000000,7,6,624,0,9
 Shift-And,10000000,7,7,624,0,10
 Shift-And,10000000,7,8,624,0,9
 Shift-And,10000000,7,9,624,0,8
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-BM Read count: 2252037
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Mem BM Read count: 2180808
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
-Turbo BM Read count: 2166619
 Weak Boyer Moore,10000000,7,0,579,0,31
 Weak Boyer Moore,10000000,7,1,579,0,34
 Weak Boyer Moore,10000000,7,2,579,0,35
@@ -5999,36 +4199,6 @@ Shift-And,10000000,7,6,579,0,8
 Shift-And,10000000,7,7,579,0,9
 Shift-And,10000000,7,8,579,0,9
 Shift-And,10000000,7,9,579,0,13
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-BM Read count: 1588622
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Mem BM Read count: 1587463
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
-Turbo BM Read count: 1582342
 Weak Boyer Moore,10000000,7,0,648,0,22
 Weak Boyer Moore,10000000,7,1,648,0,22
 Weak Boyer Moore,10000000,7,2,648,0,22
@@ -6099,36 +4269,6 @@ Shift-And,10000000,7,6,648,0,14
 Shift-And,10000000,7,7,648,0,10
 Shift-And,10000000,7,8,648,0,13
 Shift-And,10000000,7,9,648,0,10
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-BM Read count: 1586627
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Mem BM Read count: 1585565
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
-Turbo BM Read count: 1580622
 Weak Boyer Moore,10000000,7,0,632,0,22
 Weak Boyer Moore,10000000,7,1,632,0,28
 Weak Boyer Moore,10000000,7,2,632,0,23
@@ -6199,36 +4339,6 @@ Shift-And,10000000,7,6,632,0,10
 Shift-And,10000000,7,7,632,0,10
 Shift-And,10000000,7,8,632,0,9
 Shift-And,10000000,7,9,632,0,9
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-BM Read count: 2253369
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Mem BM Read count: 2181991
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
-Turbo BM Read count: 2167567
 Weak Boyer Moore,10000000,7,0,632,0,31
 Weak Boyer Moore,10000000,7,1,632,0,31
 Weak Boyer Moore,10000000,7,2,632,0,31
@@ -6299,36 +4409,6 @@ Shift-And,10000000,7,6,632,0,9
 Shift-And,10000000,7,7,632,0,8
 Shift-And,10000000,7,8,632,0,9
 Shift-And,10000000,7,9,632,0,9
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-BM Read count: 1586334
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Mem BM Read count: 1585209
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
-Turbo BM Read count: 1580604
 Weak Boyer Moore,10000000,7,0,597,0,22
 Weak Boyer Moore,10000000,7,1,597,0,21
 Weak Boyer Moore,10000000,7,2,597,0,21
@@ -6399,36 +4479,6 @@ Shift-And,10000000,7,6,597,0,9
 Shift-And,10000000,7,7,597,0,9
 Shift-And,10000000,7,8,597,0,9
 Shift-And,10000000,7,9,597,0,10
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-BM Read count: 1734076
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Mem BM Read count: 1551873
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
-Turbo BM Read count: 1543344
 Weak Boyer Moore,10000000,7,0,634,0,27
 Weak Boyer Moore,10000000,7,1,634,0,26
 Weak Boyer Moore,10000000,7,2,634,0,23
@@ -6499,36 +4549,6 @@ Shift-And,10000000,7,6,634,0,9
 Shift-And,10000000,7,7,634,0,12
 Shift-And,10000000,7,8,634,0,9
 Shift-And,10000000,7,9,634,0,9
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-BM Read count: 1516758
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Mem BM Read count: 1515305
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
-Turbo BM Read count: 1506811
 Weak Boyer Moore,10000000,7,0,618,0,23
 Weak Boyer Moore,10000000,7,1,618,0,23
 Weak Boyer Moore,10000000,7,2,618,0,21
@@ -6599,36 +4619,6 @@ Shift-And,10000000,7,6,618,0,10
 Shift-And,10000000,7,7,618,0,10
 Shift-And,10000000,7,8,618,0,12
 Shift-And,10000000,7,9,618,0,10
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-BM Read count: 1732131
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Mem BM Read count: 1549629
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
-Turbo BM Read count: 1541385
 Weak Boyer Moore,10000000,7,0,598,0,21
 Weak Boyer Moore,10000000,7,1,598,0,24
 Weak Boyer Moore,10000000,7,2,598,0,22
@@ -6699,36 +4689,6 @@ Shift-And,10000000,7,6,598,0,11
 Shift-And,10000000,7,7,598,0,9
 Shift-And,10000000,7,8,598,0,9
 Shift-And,10000000,7,9,598,0,9
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-BM Read count: 1516915
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Mem BM Read count: 1515609
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
-Turbo BM Read count: 1506977
 Weak Boyer Moore,10000000,7,0,562,0,23
 Weak Boyer Moore,10000000,7,1,562,0,22
 Weak Boyer Moore,10000000,7,2,562,0,26
@@ -6799,36 +4759,6 @@ Shift-And,10000000,7,6,562,0,10
 Shift-And,10000000,7,7,562,0,9
 Shift-And,10000000,7,8,562,0,8
 Shift-And,10000000,7,9,562,0,9
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-BM Read count: 2248925
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Mem BM Read count: 2178207
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
-Turbo BM Read count: 2163776
 Weak Boyer Moore,10000000,7,0,625,0,30
 Weak Boyer Moore,10000000,7,1,625,0,35
 Weak Boyer Moore,10000000,7,2,625,0,33
@@ -6899,36 +4829,6 @@ Shift-And,10000000,7,6,625,0,9
 Shift-And,10000000,7,7,625,0,11
 Shift-And,10000000,7,8,625,0,10
 Shift-And,10000000,7,9,625,0,11
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-BM Read count: 501879
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Mem BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
-Turbo BM Read count: 499857
 Weak Boyer Moore,10000000,7,0,579,0,8
 Weak Boyer Moore,10000000,7,1,579,0,8
 Weak Boyer Moore,10000000,7,2,579,0,7
@@ -6999,36 +4899,6 @@ Shift-And,10000000,7,6,579,0,10
 Shift-And,10000000,7,7,579,0,9
 Shift-And,10000000,7,8,579,0,9
 Shift-And,10000000,7,9,579,0,9
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-BM Read count: 1518868
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Mem BM Read count: 1517388
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
-Turbo BM Read count: 1508676
 Weak Boyer Moore,10000000,7,0,660,0,22
 Weak Boyer Moore,10000000,7,1,660,0,23
 Weak Boyer Moore,10000000,7,2,660,0,21
@@ -7099,36 +4969,6 @@ Shift-And,10000000,7,6,660,0,10
 Shift-And,10000000,7,7,660,0,9
 Shift-And,10000000,7,8,660,0,9
 Shift-And,10000000,7,9,660,0,8
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-BM Read count: 1585776
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Mem BM Read count: 1584746
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
-Turbo BM Read count: 1579768
 Weak Boyer Moore,10000000,7,0,582,0,26
 Weak Boyer Moore,10000000,7,1,582,0,21
 Weak Boyer Moore,10000000,7,2,582,0,24
@@ -7199,36 +5039,6 @@ Shift-And,10000000,7,6,582,0,9
 Shift-And,10000000,7,7,582,0,10
 Shift-And,10000000,7,8,582,0,9
 Shift-And,10000000,7,9,582,0,8
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-BM Read count: 1588459
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Mem BM Read count: 1587261
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
-Turbo BM Read count: 1582351
 Weak Boyer Moore,10000000,7,0,650,0,24
 Weak Boyer Moore,10000000,7,1,650,0,21
 Weak Boyer Moore,10000000,7,2,650,0,28
@@ -7299,36 +5109,6 @@ Shift-And,10000000,7,6,650,0,10
 Shift-And,10000000,7,7,650,0,9
 Shift-And,10000000,7,8,650,0,8
 Shift-And,10000000,7,9,650,0,13
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-BM Read count: 1585509
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Mem BM Read count: 1584465
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
-Turbo BM Read count: 1579623
 Weak Boyer Moore,10000000,7,0,576,0,24
 Weak Boyer Moore,10000000,7,1,576,0,26
 Weak Boyer Moore,10000000,7,2,576,0,21
@@ -7399,36 +5179,6 @@ Shift-And,10000000,7,6,576,0,9
 Shift-And,10000000,7,7,576,0,10
 Shift-And,10000000,7,8,576,0,8
 Shift-And,10000000,7,9,576,0,9
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-BM Read count: 434210
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Mem BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
-Turbo BM Read count: 433599
 Weak Boyer Moore,10000000,8,0,154,0,8
 Weak Boyer Moore,10000000,8,1,154,0,6
 Weak Boyer Moore,10000000,8,2,154,0,6
@@ -7499,36 +5249,6 @@ Shift-And,10000000,8,6,154,0,10
 Shift-And,10000000,8,7,154,0,8
 Shift-And,10000000,8,8,154,0,8
 Shift-And,10000000,8,9,154,0,16
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-BM Read count: 1322066
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Mem BM Read count: 1321754
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
-Turbo BM Read count: 1313485
 Weak Boyer Moore,10000000,8,0,136,0,19
 Weak Boyer Moore,10000000,8,1,136,0,19
 Weak Boyer Moore,10000000,8,2,136,0,18
@@ -7599,36 +5319,6 @@ Shift-And,10000000,8,6,136,0,9
 Shift-And,10000000,8,7,136,0,9
 Shift-And,10000000,8,8,136,0,8
 Shift-And,10000000,8,9,136,0,9
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-BM Read count: 1321707
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Mem BM Read count: 1321259
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
-Turbo BM Read count: 1313309
 Weak Boyer Moore,10000000,8,0,169,0,19
 Weak Boyer Moore,10000000,8,1,169,0,20
 Weak Boyer Moore,10000000,8,2,169,0,20
@@ -7699,36 +5389,6 @@ Shift-And,10000000,8,6,169,0,8
 Shift-And,10000000,8,7,169,0,9
 Shift-And,10000000,8,8,169,0,9
 Shift-And,10000000,8,9,169,0,10
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-BM Read count: 1320700
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Mem BM Read count: 1320308
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
-Turbo BM Read count: 1312154
 Weak Boyer Moore,10000000,8,0,156,0,17
 Weak Boyer Moore,10000000,8,1,156,0,17
 Weak Boyer Moore,10000000,8,2,156,0,17
@@ -7799,36 +5459,6 @@ Shift-And,10000000,8,6,156,0,9
 Shift-And,10000000,8,7,156,0,9
 Shift-And,10000000,8,8,156,0,9
 Shift-And,10000000,8,9,156,0,10
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-BM Read count: 1321621
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Mem BM Read count: 1321177
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
-Turbo BM Read count: 1313163
 Weak Boyer Moore,10000000,8,0,164,0,18
 Weak Boyer Moore,10000000,8,1,164,0,18
 Weak Boyer Moore,10000000,8,2,164,0,18
@@ -7899,36 +5529,6 @@ Shift-And,10000000,8,6,164,0,18
 Shift-And,10000000,8,7,164,0,9
 Shift-And,10000000,8,8,164,0,8
 Shift-And,10000000,8,9,164,0,9
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-BM Read count: 1370276
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Mem BM Read count: 1369965
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
-Turbo BM Read count: 1332486
 Weak Boyer Moore,10000000,8,0,136,0,20
 Weak Boyer Moore,10000000,8,1,136,0,22
 Weak Boyer Moore,10000000,8,2,136,0,25
@@ -7999,36 +5599,6 @@ Shift-And,10000000,8,6,136,0,9
 Shift-And,10000000,8,7,136,0,10
 Shift-And,10000000,8,8,136,0,9
 Shift-And,10000000,8,9,136,0,8
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-BM Read count: 1321099
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Mem BM Read count: 1320631
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
-Turbo BM Read count: 1312571
 Weak Boyer Moore,10000000,8,0,167,0,22
 Weak Boyer Moore,10000000,8,1,167,0,23
 Weak Boyer Moore,10000000,8,2,167,0,19
@@ -8099,36 +5669,6 @@ Shift-And,10000000,8,6,167,0,8
 Shift-And,10000000,8,7,167,0,8
 Shift-And,10000000,8,8,167,0,11
 Shift-And,10000000,8,9,167,0,9
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-BM Read count: 1618032
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Mem BM Read count: 1450460
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
-Turbo BM Read count: 1442000
 Weak Boyer Moore,10000000,8,0,168,0,19
 Weak Boyer Moore,10000000,8,1,168,0,21
 Weak Boyer Moore,10000000,8,2,168,0,25
@@ -8199,36 +5739,6 @@ Shift-And,10000000,8,6,168,0,10
 Shift-And,10000000,8,7,168,0,9
 Shift-And,10000000,8,8,168,0,11
 Shift-And,10000000,8,9,168,0,10
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-BM Read count: 2149992
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Mem BM Read count: 2083167
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
-Turbo BM Read count: 2070232
 Weak Boyer Moore,10000000,8,0,158,0,32
 Weak Boyer Moore,10000000,8,1,158,0,33
 Weak Boyer Moore,10000000,8,2,158,0,34
@@ -8299,36 +5809,6 @@ Shift-And,10000000,8,6,158,0,10
 Shift-And,10000000,8,7,158,0,13
 Shift-And,10000000,8,8,158,0,10
 Shift-And,10000000,8,9,158,0,10
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-BM Read count: 1308423
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Mem BM Read count: 1307989
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
-Turbo BM Read count: 1271509
 Weak Boyer Moore,10000000,8,0,159,0,22
 Weak Boyer Moore,10000000,8,1,159,0,19
 Weak Boyer Moore,10000000,8,2,159,0,28
@@ -8399,36 +5879,6 @@ Shift-And,10000000,8,6,159,0,10
 Shift-And,10000000,8,7,159,0,9
 Shift-And,10000000,8,8,159,0,9
 Shift-And,10000000,8,9,159,0,10
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-BM Read count: 1321483
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Mem BM Read count: 1321123
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
-Turbo BM Read count: 1312985
 Weak Boyer Moore,10000000,8,0,143,0,19
 Weak Boyer Moore,10000000,8,1,143,0,17
 Weak Boyer Moore,10000000,8,2,143,0,25
@@ -8499,36 +5949,6 @@ Shift-And,10000000,8,6,143,0,10
 Shift-And,10000000,8,7,143,0,9
 Shift-And,10000000,8,8,143,0,9
 Shift-And,10000000,8,9,143,0,9
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-BM Read count: 2149598
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Mem BM Read count: 2082925
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
-Turbo BM Read count: 2070003
 Weak Boyer Moore,10000000,8,0,164,0,32
 Weak Boyer Moore,10000000,8,1,164,0,29
 Weak Boyer Moore,10000000,8,2,164,0,30
@@ -8599,36 +6019,6 @@ Shift-And,10000000,8,6,164,0,13
 Shift-And,10000000,8,7,164,0,10
 Shift-And,10000000,8,8,164,0,12
 Shift-And,10000000,8,9,164,0,9
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-BM Read count: 1308511
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Mem BM Read count: 1308055
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
-Turbo BM Read count: 1270550
 Weak Boyer Moore,10000000,8,0,161,0,19
 Weak Boyer Moore,10000000,8,1,161,0,25
 Weak Boyer Moore,10000000,8,2,161,0,22
@@ -8699,36 +6089,6 @@ Shift-And,10000000,8,6,161,0,8
 Shift-And,10000000,8,7,161,0,10
 Shift-And,10000000,8,8,161,0,10
 Shift-And,10000000,8,9,161,0,21
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-BM Read count: 2230546
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Mem BM Read count: 2161223
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
-Turbo BM Read count: 2080245
 Weak Boyer Moore,10000000,8,0,148,0,32
 Weak Boyer Moore,10000000,8,1,148,0,31
 Weak Boyer Moore,10000000,8,2,148,0,30
@@ -8799,36 +6159,6 @@ Shift-And,10000000,8,6,148,0,8
 Shift-And,10000000,8,7,148,0,8
 Shift-And,10000000,8,8,148,0,11
 Shift-And,10000000,8,9,148,0,8
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-BM Read count: 2069976
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Mem BM Read count: 2005470
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
-Turbo BM Read count: 1990223
 Weak Boyer Moore,10000000,8,0,135,0,27
 Weak Boyer Moore,10000000,8,1,135,0,27
 Weak Boyer Moore,10000000,8,2,135,0,27
@@ -8899,36 +6229,6 @@ Shift-And,10000000,8,6,135,0,11
 Shift-And,10000000,8,7,135,0,9
 Shift-And,10000000,8,8,135,0,8
 Shift-And,10000000,8,9,135,0,8
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-BM Read count: 1876125
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Mem BM Read count: 1671270
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
-Turbo BM Read count: 1660787
 Weak Boyer Moore,10000000,8,0,143,0,25
 Weak Boyer Moore,10000000,8,1,143,0,29
 Weak Boyer Moore,10000000,8,2,143,0,27
@@ -8999,36 +6299,6 @@ Shift-And,10000000,8,6,143,0,9
 Shift-And,10000000,8,7,143,0,8
 Shift-And,10000000,8,8,143,0,9
 Shift-And,10000000,8,9,143,0,10
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-BM Read count: 1321478
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Mem BM Read count: 1321070
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
-Turbo BM Read count: 1313016
 Weak Boyer Moore,10000000,8,0,148,0,17
 Weak Boyer Moore,10000000,8,1,148,0,18
 Weak Boyer Moore,10000000,8,2,148,0,17
@@ -9099,36 +6369,6 @@ Shift-And,10000000,8,6,148,0,8
 Shift-And,10000000,8,7,148,0,13
 Shift-And,10000000,8,8,148,0,13
 Shift-And,10000000,8,9,148,0,9
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-BM Read count: 1372225
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Mem BM Read count: 1371809
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
-Turbo BM Read count: 1334205
 Weak Boyer Moore,10000000,8,0,154,0,24
 Weak Boyer Moore,10000000,8,1,154,0,21
 Weak Boyer Moore,10000000,8,2,154,0,19
@@ -9199,36 +6439,6 @@ Shift-And,10000000,8,6,154,0,8
 Shift-And,10000000,8,7,154,0,8
 Shift-And,10000000,8,8,154,0,9
 Shift-And,10000000,8,9,154,0,8
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-BM Read count: 1322108
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Mem BM Read count: 1321748
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
-Turbo BM Read count: 1313608
 Weak Boyer Moore,10000000,8,0,139,0,19
 Weak Boyer Moore,10000000,8,1,139,0,20
 Weak Boyer Moore,10000000,8,2,139,0,19
@@ -9299,36 +6509,6 @@ Shift-And,10000000,8,6,139,0,9
 Shift-And,10000000,8,7,139,0,15
 Shift-And,10000000,8,8,139,0,11
 Shift-And,10000000,8,9,139,0,10
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-BM Read count: 1321267
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Mem BM Read count: 1320871
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
-Turbo BM Read count: 1312826
 Weak Boyer Moore,10000000,8,0,155,0,24
 Weak Boyer Moore,10000000,8,1,155,0,20
 Weak Boyer Moore,10000000,8,2,155,0,20
@@ -9399,36 +6579,6 @@ Shift-And,10000000,8,6,155,0,9
 Shift-And,10000000,8,7,155,0,9
 Shift-And,10000000,8,8,155,0,8
 Shift-And,10000000,8,9,155,0,9
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-BM Read count: 1260536
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Mem BM Read count: 1158809
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
-Turbo BM Read count: 1156927
 Weak Boyer Moore,10000000,9,0,36,0,17
 Weak Boyer Moore,10000000,9,1,36,0,19
 Weak Boyer Moore,10000000,9,2,36,0,19
@@ -9499,36 +6649,6 @@ Shift-And,10000000,9,6,36,0,10
 Shift-And,10000000,9,7,36,0,9
 Shift-And,10000000,9,8,36,0,9
 Shift-And,10000000,9,9,36,0,9
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-BM Read count: 1600357
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Mem BM Read count: 1434656
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
-Turbo BM Read count: 1431890
 Weak Boyer Moore,10000000,9,0,57,0,20
 Weak Boyer Moore,10000000,9,1,57,0,22
 Weak Boyer Moore,10000000,9,2,57,0,26
@@ -9599,36 +6719,6 @@ Shift-And,10000000,9,6,57,0,8
 Shift-And,10000000,9,7,57,0,8
 Shift-And,10000000,9,8,57,0,9
 Shift-And,10000000,9,9,57,0,8
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-BM Read count: 1308975
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Mem BM Read count: 1308907
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
-Turbo BM Read count: 1307560
 Weak Boyer Moore,10000000,9,0,34,0,17
 Weak Boyer Moore,10000000,9,1,34,0,17
 Weak Boyer Moore,10000000,9,2,34,0,28
@@ -9699,36 +6789,6 @@ Shift-And,10000000,9,6,34,0,16
 Shift-And,10000000,9,7,34,0,11
 Shift-And,10000000,9,8,34,0,12
 Shift-And,10000000,9,9,34,0,10
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-BM Read count: 1601197
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Mem BM Read count: 1435787
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
-Turbo BM Read count: 1433054
 Weak Boyer Moore,10000000,9,0,44,0,28
 Weak Boyer Moore,10000000,9,1,44,0,22
 Weak Boyer Moore,10000000,9,2,44,0,23
@@ -9799,36 +6859,6 @@ Shift-And,10000000,9,6,44,0,9
 Shift-And,10000000,9,7,44,0,9
 Shift-And,10000000,9,8,44,0,9
 Shift-And,10000000,9,9,44,0,11
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-BM Read count: 1900051
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Mem BM Read count: 1885748
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
-Turbo BM Read count: 1881627
 Weak Boyer Moore,10000000,9,0,42,0,29
 Weak Boyer Moore,10000000,9,1,42,0,29
 Weak Boyer Moore,10000000,9,2,42,0,25
@@ -9899,36 +6929,6 @@ Shift-And,10000000,9,6,42,0,9
 Shift-And,10000000,9,7,42,0,10
 Shift-And,10000000,9,8,42,0,10
 Shift-And,10000000,9,9,42,0,9
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-BM Read count: 2041672
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Mem BM Read count: 1978169
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
-Turbo BM Read count: 1973834
 Weak Boyer Moore,10000000,9,0,38,0,27
 Weak Boyer Moore,10000000,9,1,38,0,26
 Weak Boyer Moore,10000000,9,2,38,0,26
@@ -9999,36 +6999,6 @@ Shift-And,10000000,9,6,38,0,8
 Shift-And,10000000,9,7,38,0,9
 Shift-And,10000000,9,8,38,0,10
 Shift-And,10000000,9,9,38,0,8
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-BM Read count: 1310649
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Mem BM Read count: 1310573
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
-Turbo BM Read count: 1309094
 Weak Boyer Moore,10000000,9,0,34,0,19
 Weak Boyer Moore,10000000,9,1,34,0,17
 Weak Boyer Moore,10000000,9,2,34,0,21
@@ -10099,36 +7069,6 @@ Shift-And,10000000,9,6,34,0,12
 Shift-And,10000000,9,7,34,0,10
 Shift-And,10000000,9,8,34,0,9
 Shift-And,10000000,9,9,34,0,9
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-BM Read count: 385280
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Mem BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
-Turbo BM Read count: 385086
 Weak Boyer Moore,10000000,9,0,36,0,5
 Weak Boyer Moore,10000000,9,1,36,0,5
 Weak Boyer Moore,10000000,9,2,36,0,5
@@ -10199,36 +7139,6 @@ Shift-And,10000000,9,6,36,0,8
 Shift-And,10000000,9,7,36,0,8
 Shift-And,10000000,9,8,36,0,14
 Shift-And,10000000,9,9,36,0,9
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-BM Read count: 1263500
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Mem BM Read count: 1161092
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
-Turbo BM Read count: 1158966
 Weak Boyer Moore,10000000,9,0,35,0,16
 Weak Boyer Moore,10000000,9,1,35,0,16
 Weak Boyer Moore,10000000,9,2,35,0,18
@@ -10299,36 +7209,6 @@ Shift-And,10000000,9,6,35,0,8
 Shift-And,10000000,9,7,35,0,12
 Shift-And,10000000,9,8,35,0,9
 Shift-And,10000000,9,9,35,0,10
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-BM Read count: 1581451
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Mem BM Read count: 1416348
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
-Turbo BM Read count: 1401323
 Weak Boyer Moore,10000000,9,0,37,0,22
 Weak Boyer Moore,10000000,9,1,37,0,26
 Weak Boyer Moore,10000000,9,2,37,0,21
@@ -10399,36 +7279,6 @@ Shift-And,10000000,9,6,37,0,9
 Shift-And,10000000,9,7,37,0,11
 Shift-And,10000000,9,8,37,0,12
 Shift-And,10000000,9,9,37,0,10
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-BM Read count: 2045113
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Mem BM Read count: 1982281
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
-Turbo BM Read count: 1977818
 Weak Boyer Moore,10000000,9,0,41,0,28
 Weak Boyer Moore,10000000,9,1,41,0,31
 Weak Boyer Moore,10000000,9,2,41,0,28
@@ -10499,36 +7349,6 @@ Shift-And,10000000,9,6,41,0,8
 Shift-And,10000000,9,7,41,0,9
 Shift-And,10000000,9,8,41,0,9
 Shift-And,10000000,9,9,41,0,10
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-BM Read count: 1307613
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Mem BM Read count: 1307514
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
-Turbo BM Read count: 1306112
 Weak Boyer Moore,10000000,9,0,40,0,22
 Weak Boyer Moore,10000000,9,1,40,0,18
 Weak Boyer Moore,10000000,9,2,40,0,19
@@ -10599,36 +7419,6 @@ Shift-And,10000000,9,6,40,0,9
 Shift-And,10000000,9,7,40,0,10
 Shift-And,10000000,9,8,40,0,9
 Shift-And,10000000,9,9,40,0,9
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-BM Read count: 1309449
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Mem BM Read count: 1309364
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
-Turbo BM Read count: 1307928
 Weak Boyer Moore,10000000,9,0,36,0,19
 Weak Boyer Moore,10000000,9,1,36,0,18
 Weak Boyer Moore,10000000,9,2,36,0,17
@@ -10699,36 +7489,6 @@ Shift-And,10000000,9,6,36,0,9
 Shift-And,10000000,9,7,36,0,8
 Shift-And,10000000,9,8,36,0,8
 Shift-And,10000000,9,9,36,0,19
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-BM Read count: 1310568
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Mem BM Read count: 1310486
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
-Turbo BM Read count: 1309055
 Weak Boyer Moore,10000000,9,0,39,0,19
 Weak Boyer Moore,10000000,9,1,39,0,18
 Weak Boyer Moore,10000000,9,2,39,0,20
@@ -10799,36 +7559,6 @@ Shift-And,10000000,9,6,39,0,11
 Shift-And,10000000,9,7,39,0,16
 Shift-And,10000000,9,8,39,0,9
 Shift-And,10000000,9,9,39,0,10
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-BM Read count: 1600732
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Mem BM Read count: 1435329
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
-Turbo BM Read count: 1432581
 Weak Boyer Moore,10000000,9,0,43,0,22
 Weak Boyer Moore,10000000,9,1,43,0,25
 Weak Boyer Moore,10000000,9,2,43,0,21
@@ -10899,36 +7629,6 @@ Shift-And,10000000,9,6,43,0,10
 Shift-And,10000000,9,7,43,0,9
 Shift-And,10000000,9,8,43,0,9
 Shift-And,10000000,9,9,43,0,10
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-BM Read count: 2045683
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Mem BM Read count: 1983051
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
-Turbo BM Read count: 1978638
 Weak Boyer Moore,10000000,9,0,46,0,28
 Weak Boyer Moore,10000000,9,1,46,0,27
 Weak Boyer Moore,10000000,9,2,46,0,30
@@ -10999,36 +7699,6 @@ Shift-And,10000000,9,6,46,0,9
 Shift-And,10000000,9,7,46,0,9
 Shift-And,10000000,9,8,46,0,9
 Shift-And,10000000,9,9,46,0,8
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-BM Read count: 1308543
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Mem BM Read count: 1308443
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
-Turbo BM Read count: 1306791
 Weak Boyer Moore,10000000,9,0,47,0,19
 Weak Boyer Moore,10000000,9,1,47,0,19
 Weak Boyer Moore,10000000,9,2,47,0,17
@@ -11099,36 +7769,6 @@ Shift-And,10000000,9,6,47,0,9
 Shift-And,10000000,9,7,47,0,11
 Shift-And,10000000,9,8,47,0,9
 Shift-And,10000000,9,9,47,0,10
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-BM Read count: 1310047
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Mem BM Read count: 1309938
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
-Turbo BM Read count: 1308456
 Weak Boyer Moore,10000000,9,0,34,0,18
 Weak Boyer Moore,10000000,9,1,34,0,19
 Weak Boyer Moore,10000000,9,2,34,0,25
@@ -11199,36 +7839,6 @@ Shift-And,10000000,9,6,34,0,8
 Shift-And,10000000,9,7,34,0,9
 Shift-And,10000000,9,8,34,0,9
 Shift-And,10000000,9,9,34,0,8
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-BM Read count: 1309337
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Mem BM Read count: 1309223
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
-Turbo BM Read count: 1307753
 Weak Boyer Moore,10000000,9,0,46,0,20
 Weak Boyer Moore,10000000,9,1,46,0,22
 Weak Boyer Moore,10000000,9,2,46,0,17
@@ -11299,36 +7909,6 @@ Shift-And,10000000,9,6,46,0,11
 Shift-And,10000000,9,7,46,0,9
 Shift-And,10000000,9,8,46,0,8
 Shift-And,10000000,9,9,46,0,8
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-BM Read count: 1599691
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Mem BM Read count: 1434115
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
-Turbo BM Read count: 1431261
 Weak Boyer Moore,10000000,9,0,28,0,20
 Weak Boyer Moore,10000000,9,1,28,0,22
 Weak Boyer Moore,10000000,9,2,28,0,20
@@ -11399,36 +7979,6 @@ Shift-And,10000000,9,6,28,0,8
 Shift-And,10000000,9,7,28,0,8
 Shift-And,10000000,9,8,28,0,9
 Shift-And,10000000,9,9,28,0,9
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-BM Read count: 1283355
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Mem BM Read count: 1252199
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
-Turbo BM Read count: 1221123
 Weak Boyer Moore,10000000,10,0,10,0,16
 Weak Boyer Moore,10000000,10,1,10,0,19
 Weak Boyer Moore,10000000,10,2,10,0,17
@@ -11499,36 +8049,6 @@ Shift-And,10000000,10,6,10,0,10
 Shift-And,10000000,10,7,10,0,9
 Shift-And,10000000,10,8,10,0,11
 Shift-And,10000000,10,9,10,0,9
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-BM Read count: 1162472
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Mem BM Read count: 1162422
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
-Turbo BM Read count: 1135204
 Weak Boyer Moore,10000000,10,0,15,0,18
 Weak Boyer Moore,10000000,10,1,15,0,17
 Weak Boyer Moore,10000000,10,2,15,0,17
@@ -11599,36 +8119,6 @@ Shift-And,10000000,10,6,15,0,8
 Shift-And,10000000,10,7,15,0,11
 Shift-And,10000000,10,8,15,0,8
 Shift-And,10000000,10,9,15,0,8
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-BM Read count: 1112745
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Mem BM Read count: 1112720
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
-Turbo BM Read count: 1110674
 Weak Boyer Moore,10000000,10,0,10,0,14
 Weak Boyer Moore,10000000,10,1,10,0,14
 Weak Boyer Moore,10000000,10,2,10,0,14
@@ -11699,36 +8189,6 @@ Shift-And,10000000,10,6,10,0,9
 Shift-And,10000000,10,7,10,0,9
 Shift-And,10000000,10,8,10,0,9
 Shift-And,10000000,10,9,10,0,8
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-BM Read count: 1112933
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Mem BM Read count: 1112878
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
-Turbo BM Read count: 1110569
 Weak Boyer Moore,10000000,10,0,22,0,15
 Weak Boyer Moore,10000000,10,1,22,0,15
 Weak Boyer Moore,10000000,10,2,22,0,15
@@ -11799,36 +8259,6 @@ Shift-And,10000000,10,6,22,0,8
 Shift-And,10000000,10,7,22,0,8
 Shift-And,10000000,10,8,22,0,9
 Shift-And,10000000,10,9,22,0,8
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-BM Read count: 1686793
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Mem BM Read count: 1683555
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
-Turbo BM Read count: 1679960
 Weak Boyer Moore,10000000,10,0,11,0,23
 Weak Boyer Moore,10000000,10,1,11,0,27
 Weak Boyer Moore,10000000,10,2,11,0,23
@@ -11899,36 +8329,6 @@ Shift-And,10000000,10,6,11,0,10
 Shift-And,10000000,10,7,11,0,9
 Shift-And,10000000,10,8,11,0,9
 Shift-And,10000000,10,9,11,0,9
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-BM Read count: 1486755
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Mem BM Read count: 1332741
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
-Turbo BM Read count: 1329828
 Weak Boyer Moore,10000000,10,0,13,0,19
 Weak Boyer Moore,10000000,10,1,13,0,20
 Weak Boyer Moore,10000000,10,2,13,0,20
@@ -11999,36 +8399,6 @@ Shift-And,10000000,10,6,13,0,10
 Shift-And,10000000,10,7,13,0,9
 Shift-And,10000000,10,8,13,0,9
 Shift-And,10000000,10,9,13,0,9
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-BM Read count: 1163474
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Mem BM Read count: 1163464
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
-Turbo BM Read count: 1135575
 Weak Boyer Moore,10000000,10,0,4,0,18
 Weak Boyer Moore,10000000,10,1,4,0,17
 Weak Boyer Moore,10000000,10,2,4,0,15
@@ -12099,36 +8469,6 @@ Shift-And,10000000,10,6,4,0,8
 Shift-And,10000000,10,7,4,0,10
 Shift-And,10000000,10,8,4,0,10
 Shift-And,10000000,10,9,4,0,10
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-BM Read count: 1881356
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Mem BM Read count: 1823739
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
-Turbo BM Read count: 1819005
 Weak Boyer Moore,10000000,10,0,13,0,27
 Weak Boyer Moore,10000000,10,1,13,0,26
 Weak Boyer Moore,10000000,10,2,13,0,27
@@ -12199,36 +8539,6 @@ Shift-And,10000000,10,6,13,0,8
 Shift-And,10000000,10,7,13,0,8
 Shift-And,10000000,10,8,13,0,8
 Shift-And,10000000,10,9,13,0,8
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-BM Read count: 1757804
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Mem BM Read count: 1744824
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
-Turbo BM Read count: 1740453
 Weak Boyer Moore,10000000,10,0,10,0,23
 Weak Boyer Moore,10000000,10,1,10,0,24
 Weak Boyer Moore,10000000,10,2,10,0,24
@@ -12299,36 +8609,6 @@ Shift-And,10000000,10,6,10,0,9
 Shift-And,10000000,10,7,10,0,9
 Shift-And,10000000,10,8,10,0,8
 Shift-And,10000000,10,9,10,0,11
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-BM Read count: 1113868
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Mem BM Read count: 1113853
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
-Turbo BM Read count: 1111867
 Weak Boyer Moore,10000000,10,0,5,0,14
 Weak Boyer Moore,10000000,10,1,5,0,17
 Weak Boyer Moore,10000000,10,2,5,0,18
@@ -12399,36 +8679,6 @@ Shift-And,10000000,10,6,5,0,9
 Shift-And,10000000,10,7,5,0,10
 Shift-And,10000000,10,8,5,0,10
 Shift-And,10000000,10,9,5,0,10
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-BM Read count: 1880396
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Mem BM Read count: 1823018
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
-Turbo BM Read count: 1818214
 Weak Boyer Moore,10000000,10,0,7,0,29
 Weak Boyer Moore,10000000,10,1,7,0,31
 Weak Boyer Moore,10000000,10,2,7,0,25
@@ -12499,36 +8749,6 @@ Shift-And,10000000,10,6,7,0,9
 Shift-And,10000000,10,7,7,0,9
 Shift-And,10000000,10,8,7,0,10
 Shift-And,10000000,10,9,7,0,9
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-BM Read count: 1880401
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Mem BM Read count: 1822876
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
-Turbo BM Read count: 1818357
 Weak Boyer Moore,10000000,10,0,8,0,30
 Weak Boyer Moore,10000000,10,1,8,0,34
 Weak Boyer Moore,10000000,10,2,8,0,28
@@ -12599,36 +8819,6 @@ Shift-And,10000000,10,6,8,0,9
 Shift-And,10000000,10,7,8,0,10
 Shift-And,10000000,10,8,8,0,10
 Shift-And,10000000,10,9,8,0,8
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-BM Read count: 1490040
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Mem BM Read count: 1336148
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
-Turbo BM Read count: 1333475
 Weak Boyer Moore,10000000,10,0,12,0,20
 Weak Boyer Moore,10000000,10,1,12,0,22
 Weak Boyer Moore,10000000,10,2,12,0,20
@@ -12699,36 +8889,6 @@ Shift-And,10000000,10,6,12,0,15
 Shift-And,10000000,10,7,12,0,13
 Shift-And,10000000,10,8,12,0,10
 Shift-And,10000000,10,9,12,0,9
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-BM Read count: 1595806
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Mem BM Read count: 1430818
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
-Turbo BM Read count: 1430596
 Weak Boyer Moore,10000000,10,0,9,0,22
 Weak Boyer Moore,10000000,10,1,9,0,20
 Weak Boyer Moore,10000000,10,2,9,0,21
@@ -12799,36 +8959,6 @@ Shift-And,10000000,10,6,9,0,10
 Shift-And,10000000,10,7,9,0,10
 Shift-And,10000000,10,8,9,0,12
 Shift-And,10000000,10,9,9,0,12
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-BM Read count: 1486718
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Mem BM Read count: 1333064
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
-Turbo BM Read count: 1330357
 Weak Boyer Moore,10000000,10,0,9,0,27
 Weak Boyer Moore,10000000,10,1,9,0,26
 Weak Boyer Moore,10000000,10,2,9,0,22
@@ -12899,36 +9029,6 @@ Shift-And,10000000,10,6,9,0,9
 Shift-And,10000000,10,7,9,0,10
 Shift-And,10000000,10,8,9,0,10
 Shift-And,10000000,10,9,9,0,9
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-BM Read count: 1765565
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Mem BM Read count: 1581253
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
-Turbo BM Read count: 1577368
 Weak Boyer Moore,10000000,10,0,12,0,24
 Weak Boyer Moore,10000000,10,1,12,0,28
 Weak Boyer Moore,10000000,10,2,12,0,24
@@ -12999,36 +9099,6 @@ Shift-And,10000000,10,6,12,0,9
 Shift-And,10000000,10,7,12,0,9
 Shift-And,10000000,10,8,12,0,9
 Shift-And,10000000,10,9,12,0,9
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-BM Read count: 2105387
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Mem BM Read count: 2036657
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
-Turbo BM Read count: 1957065
 Weak Boyer Moore,10000000,10,0,11,0,31
 Weak Boyer Moore,10000000,10,1,11,0,29
 Weak Boyer Moore,10000000,10,2,11,0,30
@@ -13099,36 +9169,6 @@ Shift-And,10000000,10,6,11,0,10
 Shift-And,10000000,10,7,11,0,9
 Shift-And,10000000,10,8,11,0,9
 Shift-And,10000000,10,9,11,0,11
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-BM Read count: 1164045
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Mem BM Read count: 1164023
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
-Turbo BM Read count: 1136517
 Weak Boyer Moore,10000000,10,0,8,0,17
 Weak Boyer Moore,10000000,10,1,8,0,16
 Weak Boyer Moore,10000000,10,2,8,0,18
@@ -13199,36 +9239,6 @@ Shift-And,10000000,10,6,8,0,12
 Shift-And,10000000,10,7,8,0,10
 Shift-And,10000000,10,8,8,0,9
 Shift-And,10000000,10,9,8,0,10
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-BM Read count: 1489735
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Mem BM Read count: 1335703
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
-Turbo BM Read count: 1332943
 Weak Boyer Moore,10000000,10,0,9,0,22
 Weak Boyer Moore,10000000,10,1,9,0,26
 Weak Boyer Moore,10000000,10,2,9,0,23
@@ -13299,36 +9309,6 @@ Shift-And,10000000,10,6,9,0,8
 Shift-And,10000000,10,7,9,0,9
 Shift-And,10000000,10,8,9,0,8
 Shift-And,10000000,10,9,9,0,9
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-BM Read count: 1489813
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Mem BM Read count: 1335984
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
-Turbo BM Read count: 1333153
 Weak Boyer Moore,10000000,10,0,13,0,19
 Weak Boyer Moore,10000000,10,1,13,0,21
 Weak Boyer Moore,10000000,10,2,13,0,18
