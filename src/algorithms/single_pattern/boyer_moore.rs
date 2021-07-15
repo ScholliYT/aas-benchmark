@@ -196,11 +196,12 @@ pub fn weak_turbo_boyer_moore_all(pattern: &[u8], text: &[u8]) -> Vec<usize> {
             shift = period;
             mem = m - shift;
         } else {
-            let turbo: isize = (mem as isize) + 1 + i - (m as isize);
+            let turbo: isize = (mem as isize) + 1 + i - (m as isize); // mem - |match|
             if turbo <= (good_suff[i as usize] as isize) {
                 shift = good_suff[i as usize];
                 mem = min(m - shift, m - 1 - (i as usize));
             } else {
+                // Turbo Shfit
                 shift = max(turbo, (m as isize) - 1 - i) as usize;
                 //println!("Turbo shifting by={} with turbo={} mem={}", shift, turbo, mem);
                 mem = 0;
